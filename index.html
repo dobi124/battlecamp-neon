@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Battle Camp Неон</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <div class="bg-orb orb-a"></div><div class="bg-orb orb-b"></div><div class="scanlines"></div>
+
+  <main id="app" class="app">
+    <section class="page active" id="page-home">
+      <div class="game-hero glass">
+        <div class="hero-badge">LIVE OPS</div>
+        <div class="logo logo-game">BATTLE CAMP</div>
+        <h1>Командный штаб</h1>
+        <p>Ближайшие события, свежие новости и быстрый переход к сборке команд.</p>
+        <div class="login login-inline">
+          <input id="nickInput" placeholder="Игровой ник" autocomplete="nickname" />
+          <button id="enterBtn" class="primary">Войти</button>
+        </div>
+      </div>
+
+      <div id="homeCards" class="home-dashboard hidden">
+        <div class="home-section-head"><b>Следующие события</b><button data-route="events">Все события</button></div>
+        <div id="nextEvents" class="next-events"></div>
+
+        <div class="home-section-head"><b>Новости</b><span>Автообновление из источника/локального фида</span></div>
+        <div id="homeNews" class="news-grid"></div>
+
+        <div class="quick-actions">
+          <button class="big-card cyan" data-route="events"><span>⚔️</span><b>Собрать команду</b><small>Карточки событий кликабельны</small></button>
+          <button class="big-card violet" data-route="profile"><span>👥</span><b>Друзья</b><small>Профили и сохранённые команды</small></button>
+        </div>
+      </div>
+    </section>
+
+    <section class="page" id="page-events">
+      <header class="top"><button class="back" data-route="home">←</button><div><h2>События</h2><p>Выберите событие для сборки команды</p></div></header>
+      <div id="eventsGrid" class="events-grid"></div>
+    </section>
+
+    <section class="page" id="page-builder">
+      <header class="top"><button class="back" data-route="events">←</button><div><h2 id="eventTitle">Состав команды</h2><p>Сначала выберите слот, потом нажмите «Добавить» на монстре</p></div></header>
+      <div class="team-panel glass">
+        <div id="teamSlots" class="team-slots"></div>
+        <div class="team-actions">
+          <button id="saveTeamBtn">Сохранить состав</button>
+          <button id="clearTeamBtn">Очистить</button>
+        </div>
+      </div>
+      <div class="filters glass">
+        <input id="searchInput" placeholder="Поиск монстра..." />
+        <select id="rarityFilter"><option value="">Все редкости</option></select>
+        <select id="sortSelect">
+          <option value="power">Сортировка: сила</option>
+          <option value="attack">Атака</option>
+          <option value="health">Здоровье</option>
+          <option value="name">Имя</option>
+        </select>
+      </div>
+      <div class="counter" id="counter">Загрузка...</div>
+      <div id="monsterGrid" class="monster-grid"></div>
+      <button id="loadMoreBtn" class="load-more">Показать ещё</button>
+      <div class="legend-row">
+        <span><i class="mini-badge event-badge">E</i>Событийный</span>
+        <span><i class="mini-badge boost-badge">R</i>Boost</span>
+        <span><span class="ribbon-sample epic"></span>Редкость — лента на карточке</span>
+      </div>
+    </section>
+
+    <section class="page" id="page-trades">
+      <header class="top"><button class="back" data-route="home">←</button><div><h2>Обмены</h2><p>Найдите игрока по ID, соберите предложение и отправьте запрос</p></div></header>
+
+      <div class="trade-user-search glass">
+        <div>
+          <label>Поиск пользователя по ID</label>
+          <div class="trade-search-row">
+            <input id="tradeUserId" placeholder="Например: 123456789" inputmode="numeric" />
+            <button id="findUserBtn" class="primary">Найти</button>
+          </div>
+        </div>
+        <div id="tradeTargetCard" class="target-card hidden"></div>
+      </div>
+
+      <div class="trade-builder-grid">
+        <div class="trade-box glass">
+          <h3>🎁 Отдаю</h3>
+          <div id="giveSlots" class="trade-slots" data-trade-zone="give"></div>
+        </div>
+        <div class="trade-box glass">
+          <h3>📥 Получаю</h3>
+          <div id="getSlots" class="trade-slots" data-trade-zone="get"></div>
+        </div>
+      </div>
+
+      <div class="trade-tools glass">
+        <input id="tradeMonsterSearch" placeholder="Поиск монстра для обмена..." />
+        <select id="tradeMode">
+          <option value="give">Добавлять в «Отдаю»</option>
+          <option value="get">Добавлять в «Получаю»</option>
+        </select>
+        <button id="sendTradeBtn" class="primary">Отправить запрос</button>
+      </div>
+
+      <div class="counter" id="tradeCounter">Каталог обмена</div>
+      <div id="tradeMonsterGrid" class="monster-grid trade-monster-grid"></div>
+      <button id="tradeLoadMoreBtn" class="load-more">Показать ещё</button>
+
+      <div class="notifications glass">
+        <div class="notif-head">
+          <h3>🔔 Уведомления обмена</h3>
+          <button id="clearNotificationsBtn">Очистить</button>
+        </div>
+        <div id="notificationList"></div>
+      </div>
+    </section>
+
+    <section class="page" id="page-profile">
+      <header class="top"><button class="back" data-route="home">←</button><div><h2>Профиль</h2><p>Telegram профиль и ID для обменов</p></div></header>
+
+      <div class="profile-card glass">
+        <img id="tgAvatar" class="tg-avatar" src="assets/monsters/no-image.png" alt="avatar" />
+        <div class="profile-main">
+          <h3 id="tgName">Игрок</h3>
+          <p id="tgUsername">@username</p>
+          <div class="id-row">
+            <span>Ваш ID в Mini App</span>
+            <b id="miniAppId">000000</b>
+            <button id="copyMiniIdBtn">Копировать</button>
+          </div>
+          <small>По этому ID другие игроки смогут найти вас для обмена.</small>
+        </div>
+      </div>
+
+      <div class="profile-grid">
+        <div class="glass profile-box">
+          <div class="box-head"><b>Друзья</b><span id="friendsCount">0</span></div>
+          <div class="friend-search">
+            <input id="friendSearchInput" placeholder="ID или ник игрока" />
+            <button id="sendFriendBtn" class="primary">Заявка</button>
+          </div>
+          <div id="friendRequests"></div>
+          <div id="friendsList"></div>
+        </div>
+
+        <div class="glass profile-box">
+          <b>Сохранённые составы</b>
+          <div id="savedTeams"></div>
+        </div>
+      </div>
+
+      <div class="glass profile-box">
+        <b>Входящие запросы обмена</b>
+        <div id="incomingTrades"></div>
+      </div>
+    </section>
+
+    <section class="page" id="page-friend">
+      <header class="top"><button class="back" data-route="profile">←</button><div><h2 id="friendTitle">Профиль друга</h2><p>Сохранённые команды по событиям</p></div></header>
+      <div id="friendProfileCard" class="profile-card glass"></div>
+      <div class="glass profile-box">
+        <b>Карточки событий друга</b>
+        <div id="friendEventTeams" class="friend-event-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <nav class="bottom-nav">
+    <button data-route="home">🏠<span>Главная</span></button>
+    <button data-route="events">⚔️<span>События</span></button>
+    <button data-route="trades">🔄<span>Обмены</span></button>
+    <button data-route="profile">👤<span>Профиль</span></button>
+  </nav>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

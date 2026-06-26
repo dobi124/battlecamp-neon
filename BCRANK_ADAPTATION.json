@@ -1,0 +1,15 @@
+{
+  "note": "BC Rank detail pages show location/event history for event monsters. Full automatic scraping is not included; editable lists are in data/event-monsters.json and data/boost-monsters.json.",
+  "event_count": 7,
+  "boost_count": 11,
+  "event_file": "data/event-monsters.json",
+  "boost_file": "data/boost-monsters.json",
+  "stars": {
+    "Rare": 2,
+    "Super": 3,
+    "Ultra": 4,
+    "Epic": 5,
+    "Legendary": 6,
+    "Mythic": 7
+  }
+}

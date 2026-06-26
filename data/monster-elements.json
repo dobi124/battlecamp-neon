@@ -1,0 +1,6747 @@
+{
+  "Blazion": [
+    "fire"
+  ],
+  "Emblazion": [
+    "fire"
+  ],
+  "Hellblazion": [
+    "fire"
+  ],
+  "Cinderfang": [
+    "fire",
+    "water"
+  ],
+  "Flaregrowl": [
+    "fire",
+    "water"
+  ],
+  "Blazegrowl": [
+    "fire",
+    "water"
+  ],
+  "Infernogrowl": [
+    "fire",
+    "rock"
+  ],
+  "Emberdrake": [
+    "fire",
+    "rock"
+  ],
+  "Cinderdrake": [
+    "fire",
+    "rock"
+  ],
+  "Flarewyrm": [
+    "fire",
+    "wind"
+  ],
+  "Blazewyrm": [
+    "fire",
+    "wind"
+  ],
+  "Flamescythe": [
+    "fire"
+  ],
+  "Hellscythe": [
+    "fire"
+  ],
+  "Quadfolius": [
+    "leaf"
+  ],
+  "Quadflorus": [
+    "leaf"
+  ],
+  "Quadendro": [
+    "leaf"
+  ],
+  "Boltuar": [
+    "fire"
+  ],
+  "Scypyre": [
+    "fire"
+  ],
+  "Bugblocker": [
+    "leaf"
+  ],
+  "Cradapult": [
+    "leaf"
+  ],
+  "Kaleidocrab": [
+    "leaf"
+  ],
+  "Kingcano": [
+    "fire"
+  ],
+  "Buffalowing": [
+    "fire"
+  ],
+  "Shrubjumper": [
+    "leaf"
+  ],
+  "Divineswine": [
+    "leaf"
+  ],
+  "Trunsky": [
+    "leaf"
+  ],
+  "Ghostbiter": [
+    "fire"
+  ],
+  "Venopede": [
+    "leaf"
+  ],
+  "Grillsickle": [
+    "fire"
+  ],
+  "Bugbarrier": [
+    "leaf"
+  ],
+  "Battery General": [
+    "fire"
+  ],
+  "Muchasupadore": [
+    "fire"
+  ],
+  "Stagapult": [
+    "leaf"
+  ],
+  "Scyzzler": [
+    "fire"
+  ],
+  "Scynder": [
+    "fire"
+  ],
+  "BeardedSnady": [
+    "leaf"
+  ],
+  "Ghostfighter": [
+    "fire"
+  ],
+  "Hollyknight": [
+    "leaf"
+  ],
+  "Volcrusha": [
+    "fire"
+  ],
+  "Snady": [
+    "leaf"
+  ],
+  "Brightfoot": [
+    "leaf"
+  ],
+  "Fryvern": [
+    "fire"
+  ],
+  "Fryger": [
+    "fire"
+  ],
+  "Emberfang": [
+    "fire",
+    "rock"
+  ],
+  "Mawg": [
+    "leaf"
+  ],
+  "Hatescythe": [
+    "leaf"
+  ],
+  "Riptide": [
+    "water"
+  ],
+  "Skalld": [
+    "fire"
+  ],
+  "Marsupadore": [
+    "fire"
+  ],
+  "Scyfire": [
+    "fire"
+  ],
+  "Foxcaflowne": [
+    "leaf"
+  ],
+  "Vensickle": [
+    "leaf"
+  ],
+  "Foebomber": [
+    "fire"
+  ],
+  "Sheenix": [
+    "water"
+  ],
+  "Tidalwave": [
+    "water"
+  ],
+  "Limboy": [
+    "fire"
+  ],
+  "Barkshark": [
+    "water"
+  ],
+  "Vertgerm": [
+    "leaf"
+  ],
+  "Verdigrot": [
+    "leaf"
+  ],
+  "Nightyowler": [
+    "water"
+  ],
+  "Verdigamut": [
+    "leaf"
+  ],
+  "Spitescythe": [
+    "leaf"
+  ],
+  "Madmawg": [
+    "leaf"
+  ],
+  "Lightsprite": [
+    "fire"
+  ],
+  "Pyroscoundrel": [
+    "fire"
+  ],
+  "Volkyrie": [
+    "fire"
+  ],
+  "Arachtor": [
+    "water"
+  ],
+  "Stormbrute": [
+    "water",
+    "wind"
+  ],
+  "Volcalla": [
+    "fire"
+  ],
+  "Vineswine": [
+    "leaf"
+  ],
+  "Grillipede": [
+    "fire"
+  ],
+  "Boghound": [
+    "rock",
+    "leaf"
+  ],
+  "Darkskalld": [
+    "fire"
+  ],
+  "Tarantulex": [
+    "water"
+  ],
+  "Shrubsky": [
+    "leaf"
+  ],
+  "Trilowrot": [
+    "leaf"
+  ],
+  "Maulcano": [
+    "fire"
+  ],
+  "Cradger": [
+    "leaf"
+  ],
+  "Vertworm": [
+    "leaf"
+  ],
+  "Jerseyscorch": [
+    "fire"
+  ],
+  "Cetascythe": [
+    "water"
+  ],
+  "Rainbrute": [
+    "water",
+    "wind"
+  ],
+  "Lightblight": [
+    "fire"
+  ],
+  "Swamphound": [
+    "rock",
+    "leaf"
+  ],
+  "Shrubthumper": [
+    "leaf"
+  ],
+  "Cetarazor": [
+    "water"
+  ],
+  "Jollyknight": [
+    "leaf"
+  ],
+  "Foxbot": [
+    "leaf"
+  ],
+  "Jerseyboil": [
+    "fire"
+  ],
+  "Foeburner": [
+    "fire"
+  ],
+  "Frying Fox": [
+    "fire"
+  ],
+  "Limbone": [
+    "fire"
+  ],
+  "Pyroscalpel": [
+    "fire"
+  ],
+  "Frostscythe": [
+    "water"
+  ],
+  "Midnightgrowler": [
+    "water"
+  ],
+  "Rhinothropod": [
+    "leaf"
+  ],
+  "Deepfryger": [
+    "fire"
+  ],
+  "Trilotrot": [
+    "leaf"
+  ],
+  "Crabstellation": [
+    "leaf"
+  ],
+  "Darkshark": [
+    "water"
+  ],
+  "Glowfoot": [
+    "leaf"
+  ],
+  "Buffaloking": [
+    "fire"
+  ],
+  "Icescythe": [
+    "water"
+  ],
+  "Toxsnake": [
+    "leaf"
+  ],
+  "Battery Sergeant": [
+    "fire"
+  ],
+  "Cragstag": [
+    "leaf"
+  ],
+  "Coralina": [
+    "water"
+  ],
+  "Teenix": [
+    "water"
+  ],
+  "Toxeel": [
+    "leaf"
+  ],
+  "Roguerat": [
+    "water"
+  ],
+  "Joltuar": [
+    "fire"
+  ],
+  "Yetibear": [
+    "water"
+  ],
+  "Darthropod": [
+    "leaf"
+  ],
+  "Coralqueena": [
+    "water"
+  ],
+  "Bionosaur": [
+    "water"
+  ],
+  "Grendlybear": [
+    "water"
+  ],
+  "Bitterwyvern": [
+    "water"
+  ],
+  "Chillipede": [
+    "water"
+  ],
+  "Ratrocity": [
+    "water"
+  ],
+  "Currentlupus": [
+    "water"
+  ],
+  "Nautilrus": [
+    "water"
+  ],
+  "Softtouch": [
+    "water"
+  ],
+  "Nuclearwyvern": [
+    "water"
+  ],
+  "FadeShade": [
+    "rock"
+  ],
+  "Chillsickle": [
+    "water"
+  ],
+  "Softsting": [
+    "water"
+  ],
+  "Freezycrawler": [
+    "water"
+  ],
+  "Bionilisk": [
+    "water"
+  ],
+  "Monolimpius": [
+    "rock"
+  ],
+  "Skeledon": [
+    "rock"
+  ],
+  "GrayShade": [
+    "rock"
+  ],
+  "Magmasaur": [
+    "fire",
+    "rock"
+  ],
+  "Medibear": [
+    "water"
+  ],
+  "MysterBoxer": [
+    "rock"
+  ],
+  "Gillagoyle": [
+    "rock"
+  ],
+  "Magentalist": [
+    "rock"
+  ],
+  "Freakycrawler": [
+    "water"
+  ],
+  "Clashbones": [
+    "rock"
+  ],
+  "MysterBox": [
+    "rock"
+  ],
+  "Dreadnautilrus": [
+    "water"
+  ],
+  "Ironscythe": [
+    "rock"
+  ],
+  "Slagscythe": [
+    "rock"
+  ],
+  "Magman": [
+    "rock"
+  ],
+  "Stonemancer": [
+    "rock"
+  ],
+  "Basilift": [
+    "wind"
+  ],
+  "Boulseye": [
+    "rock"
+  ],
+  "Psychoiron": [
+    "rock"
+  ],
+  "Scarerdactyl": [
+    "wind"
+  ],
+  "Crossbones": [
+    "rock"
+  ],
+  "Psychosiren": [
+    "rock"
+  ],
+  "Igneosaur": [
+    "fire",
+    "rock"
+  ],
+  "Stormripper": [
+    "water",
+    "wind"
+  ],
+  "Eggsecutioner": [
+    "rock"
+  ],
+  "Pawper": [
+    "wind"
+  ],
+  "Monolithius": [
+    "rock"
+  ],
+  "Mendlybear": [
+    "water"
+  ],
+  "Quartzerquell": [
+    "rock"
+  ],
+  "Bouldorzer": [
+    "rock"
+  ],
+  "Dragoncrest": [
+    "rock"
+  ],
+  "Tempestscythe": [
+    "wind"
+  ],
+  "Knightromancer": [
+    "rock"
+  ],
+  "Heckromancer": [
+    "rock"
+  ],
+  "Cryolupus": [
+    "water"
+  ],
+  "Wattleknight": [
+    "rock"
+  ],
+  "Rockmancer": [
+    "rock"
+  ],
+  "Buckknight": [
+    "rock"
+  ],
+  "Ironlord": [
+    "wind"
+  ],
+  "GnarlCreagle": [
+    "rock"
+  ],
+  "Garishgoyle": [
+    "wind"
+  ],
+  "Drillsickle": [
+    "rock"
+  ],
+  "Siegedragon": [
+    "wind"
+  ],
+  "Housemaus": [
+    "wind"
+  ],
+  "Meowmmy": [
+    "wind"
+  ],
+  "Drillipede": [
+    "rock"
+  ],
+  "Boonhawk": [
+    "water",
+    "wind"
+  ],
+  "Quellion": [
+    "rock"
+  ],
+  "Dragonaegis": [
+    "rock"
+  ],
+  "Featherguster": [
+    "wind"
+  ],
+  "Skelesaur": [
+    "rock"
+  ],
+  "Aristocat": [
+    "wind"
+  ],
+  "Mightymaus": [
+    "wind"
+  ],
+  "Gillabraltar": [
+    "rock"
+  ],
+  "Bearon Maul": [
+    "wind"
+  ],
+  "Ironknight": [
+    "wind"
+  ],
+  "Boonbird": [
+    "water",
+    "wind"
+  ],
+  "Terrordactyll": [
+    "wind"
+  ],
+  "Siegebeast": [
+    "wind"
+  ],
+  "Midevoman": [
+    "wind"
+  ],
+  "Featherbuster": [
+    "wind"
+  ],
+  "Fierodyssey": [
+    "fire"
+  ],
+  "Kungafoo": [
+    "fire"
+  ],
+  "Windipede": [
+    "wind"
+  ],
+  "Lightfoot": [
+    "wind"
+  ],
+  "Siegespecter": [
+    "wind"
+  ],
+  "Asgeldian": [
+    "wind"
+  ],
+  "Creagle": [
+    "rock"
+  ],
+  "Squawksbuckler": [
+    "wind"
+  ],
+  "Eggsterminator": [
+    "rock"
+  ],
+  "Hawkbuckler": [
+    "wind"
+  ],
+  "Megafoo": [
+    "fire"
+  ],
+  "Noinker": [
+    "fire"
+  ],
+  "Skylion": [
+    "wind"
+  ],
+  "Surturion": [
+    "fire"
+  ],
+  "Lightninglion": [
+    "wind"
+  ],
+  "Surturdoom": [
+    "fire"
+  ],
+  "Toucandescant": [
+    "fire"
+  ],
+  "Noirboar": [
+    "fire"
+  ],
+  "Featherfoot": [
+    "wind"
+  ],
+  "Gustscythe": [
+    "wind"
+  ],
+  "MeowmmyDearest": [
+    "wind"
+  ],
+  "Midevolord": [
+    "wind"
+  ],
+  "FancyAristocat": [
+    "wind"
+  ],
+  "Halfheart": [
+    "wind"
+  ],
+  "Flambodyssey": [
+    "fire"
+  ],
+  "Windsickle": [
+    "wind"
+  ],
+  "Rainripper": [
+    "water",
+    "wind"
+  ],
+  "Hartwarmer": [
+    "fire"
+  ],
+  "Wrathheart": [
+    "wind"
+  ],
+  "Cocolonel Hazel": [
+    "fire"
+  ],
+  "Pyrokeet": [
+    "fire"
+  ],
+  "Mechsprite": [
+    "fire"
+  ],
+  "Ruptile": [
+    "fire"
+  ],
+  "Sugarpretty": [
+    "wind"
+  ],
+  "Surturdeath": [
+    "fire"
+  ],
+  "Hartburner": [
+    "fire"
+  ],
+  "Asguardian": [
+    "wind"
+  ],
+  "Sugarkitty": [
+    "wind"
+  ],
+  "Greyskullibur": [
+    "fire"
+  ],
+  "Windkicker": [
+    "fire"
+  ],
+  "Exskullibur": [
+    "fire"
+  ],
+  "Sizzard": [
+    "fire"
+  ],
+  "Corkporol Nutmeg": [
+    "fire"
+  ],
+  "Rapturian": [
+    "fire"
+  ],
+  "Roguetorch": [
+    "fire"
+  ],
+  "Cajunker": [
+    "fire"
+  ],
+  "Flammoose": [
+    "fire"
+  ],
+  "Centaurablaze": [
+    "leaf"
+  ],
+  "Mightsprite": [
+    "fire"
+  ],
+  "RaginCajunker": [
+    "fire"
+  ],
+  "Sizzaur": [
+    "fire"
+  ],
+  "Canterbranch": [
+    "leaf"
+  ],
+  "Sunderdog": [
+    "fire"
+  ],
+  "Burndog": [
+    "fire"
+  ],
+  "Veganterrier": [
+    "leaf"
+  ],
+  "Brightfeather": [
+    "leaf"
+  ],
+  "Quickhen": [
+    "fire"
+  ],
+  "Centaurabow": [
+    "leaf"
+  ],
+  "Kangaboom": [
+    "fire"
+  ],
+  "Mythsprite": [
+    "fire"
+  ],
+  "Fieldhound": [
+    "wind",
+    "leaf"
+  ],
+  "Hotpatches": [
+    "fire"
+  ],
+  "Arbordog": [
+    "leaf"
+  ],
+  "Wolfmachine": [
+    "leaf"
+  ],
+  "Quickchick": [
+    "fire"
+  ],
+  "Tropikraken": [
+    "leaf"
+  ],
+  "Patchhound": [
+    "wind",
+    "leaf"
+  ],
+  "Mechaleon": [
+    "leaf"
+  ],
+  "Roughpatches": [
+    "fire"
+  ],
+  "Warwolf": [
+    "leaf"
+  ],
+  "Bushywhacker": [
+    "leaf"
+  ],
+  "Dogbloomer": [
+    "leaf"
+  ],
+  "Kangaroast": [
+    "fire"
+  ],
+  "Roguescorch": [
+    "fire"
+  ],
+  "Growlf": [
+    "leaf"
+  ],
+  "Canterwillow": [
+    "leaf"
+  ],
+  "Oxygeneral": [
+    "leaf"
+  ],
+  "Glowfeather": [
+    "leaf"
+  ],
+  "Mechageta": [
+    "leaf"
+  ],
+  "Brainworm": [
+    "leaf"
+  ],
+  "Tropikale": [
+    "leaf"
+  ],
+  "SolomonBunny": [
+    "leaf"
+  ],
+  "Flammavian": [
+    "fire"
+  ],
+  "Barkingdog": [
+    "leaf"
+  ],
+  "Oxydjinn": [
+    "leaf"
+  ],
+  "Bushyguardian": [
+    "leaf"
+  ],
+  "Hopsydaisy": [
+    "leaf"
+  ],
+  "Draugfoal": [
+    "water"
+  ],
+  "Vegeterrier": [
+    "leaf"
+  ],
+  "Zombunnie": [
+    "leaf"
+  ],
+  "Crystalion": [
+    "water"
+  ],
+  "Rapidribbit": [
+    "leaf"
+  ],
+  "Viguy": [
+    "leaf"
+  ],
+  "Quartzlion": [
+    "water"
+  ],
+  "Anemunny": [
+    "water"
+  ],
+  "Brainslug": [
+    "leaf"
+  ],
+  "VionKing": [
+    "leaf"
+  ],
+  "Blightrabbit": [
+    "leaf"
+  ],
+  "Vion": [
+    "leaf"
+  ],
+  "Turquistador": [
+    "leaf"
+  ],
+  "Albatrice": [
+    "water"
+  ],
+  "Leasaur": [
+    "leaf"
+  ],
+  "Ribbitrush": [
+    "leaf"
+  ],
+  "Windtackler": [
+    "fire"
+  ],
+  "Arbormaster": [
+    "leaf"
+  ],
+  "Wightrabbit": [
+    "leaf"
+  ],
+  "Wottertight": [
+    "water"
+  ],
+  "Sandleech": [
+    "rock"
+  ],
+  "Draugllion": [
+    "water"
+  ],
+  "Infatustacean": [
+    "water"
+  ],
+  "Jawzor": [
+    "water"
+  ],
+  "Frup": [
+    "water"
+  ],
+  "Chak-Ram": [
+    "water"
+  ],
+  "Dirkkid": [
+    "water"
+  ],
+  "Icecat": [
+    "water"
+  ],
+  "Hopsycrazy": [
+    "leaf"
+  ],
+  "Growverine": [
+    "leaf"
+  ],
+  "PolarIcecat": [
+    "water"
+  ],
+  "Erodonite": [
+    "rock"
+  ],
+  "Schnauzzord": [
+    "water"
+  ],
+  "Elfkimed": [
+    "water"
+  ],
+  "Urskimed": [
+    "water"
+  ],
+  "Smartbomb": [
+    "water"
+  ],
+  "Schnauzzard": [
+    "water"
+  ],
+  "Crushtacean": [
+    "water"
+  ],
+  "Freagle": [
+    "water"
+  ],
+  "Cluquistador": [
+    "leaf"
+  ],
+  "Cratercannon": [
+    "water"
+  ],
+  "Slaghound": [
+    "rock"
+  ],
+  "Mistmare": [
+    "water"
+  ],
+  "Slagmutt": [
+    "rock"
+  ],
+  "Drizzaur": [
+    "water"
+  ],
+  "Jawzilla": [
+    "water"
+  ],
+  "Knightmare": [
+    "water"
+  ],
+  "Wotterproof": [
+    "water"
+  ],
+  "Vider": [
+    "leaf"
+  ],
+  "Grandcannon": [
+    "water"
+  ],
+  "Leazard": [
+    "leaf"
+  ],
+  "Bombshell": [
+    "water"
+  ],
+  "ArchAnemunny": [
+    "water"
+  ],
+  "Erodonius": [
+    "rock"
+  ],
+  "Drizzard": [
+    "water"
+  ],
+  "Albalanche": [
+    "water"
+  ],
+  "Indigordo": [
+    "rock"
+  ],
+  "Yolkannon": [
+    "rock"
+  ],
+  "Indigono": [
+    "rock"
+  ],
+  "Duneleech": [
+    "rock"
+  ],
+  "Sacramound": [
+    "rock"
+  ],
+  "Stalagmight": [
+    "rock"
+  ],
+  "Harewitzer": [
+    "rock"
+  ],
+  "Sacramountain": [
+    "rock"
+  ],
+  "Monosaur": [
+    "rock"
+  ],
+  "Stereosaur": [
+    "rock"
+  ],
+  "Rocktosser": [
+    "rock"
+  ],
+  "Bronzescar": [
+    "rock"
+  ],
+  "Limboprowler": [
+    "rock"
+  ],
+  "Stalactooth": [
+    "rock"
+  ],
+  "Stalactank": [
+    "rock"
+  ],
+  "Stalagmaul": [
+    "rock"
+  ],
+  "Rockbosser": [
+    "rock"
+  ],
+  "Crystalcrawler": [
+    "rock"
+  ],
+  "Onyzzaurd": [
+    "rock"
+  ],
+  "Scargoyle": [
+    "rock"
+  ],
+  "Howlove": [
+    "wind"
+  ],
+  "Onyzzard": [
+    "rock"
+  ],
+  "Shadehaze": [
+    "wind"
+  ],
+  "Funrir": [
+    "wind"
+  ],
+  "Horuscane": [
+    "wind"
+  ],
+  "Yakdown": [
+    "wind"
+  ],
+  "Doomhaze": [
+    "wind"
+  ],
+  "Aeroaptor": [
+    "wind"
+  ],
+  "Wardog": [
+    "wind"
+  ],
+  "Poultrypuncher": [
+    "wind"
+  ],
+  "UndyingDutchman": [
+    "wind"
+  ],
+  "GlidingDutchman": [
+    "wind"
+  ],
+  "Warhound": [
+    "wind"
+  ],
+  "Crystalcrusher": [
+    "rock"
+  ],
+  "Canbee": [
+    "wind"
+  ],
+  "Fowlnado": [
+    "wind"
+  ],
+  "Taobeaker": [
+    "wind"
+  ],
+  "Taobreaker": [
+    "wind"
+  ],
+  "Poultrypugilist": [
+    "wind"
+  ],
+  "Trimane": [
+    "wind"
+  ],
+  "Veloftiraptor": [
+    "wind"
+  ],
+  "Limbolurker": [
+    "rock"
+  ],
+  "Germite": [
+    "wind"
+  ],
+  "Vermite": [
+    "wind"
+  ],
+  "Candyhornet": [
+    "wind"
+  ],
+  "Huffpuff": [
+    "wind"
+  ],
+  "Lovemonkey": [
+    "wind"
+  ],
+  "Flizard": [
+    "wind"
+  ],
+  "Wallopby": [
+    "fire"
+  ],
+  "Trifighter": [
+    "wind"
+  ],
+  "Gustpuff": [
+    "wind"
+  ],
+  "Tuffpuff": [
+    "wind"
+  ],
+  "Flysaur": [
+    "wind"
+  ],
+  "Toughgust": [
+    "wind"
+  ],
+  "Warmonker": [
+    "fire"
+  ],
+  "Bundit": [
+    "fire"
+  ],
+  "Boilerdog": [
+    "fire"
+  ],
+  "Musperior": [
+    "fire"
+  ],
+  "Jollydon": [
+    "fire"
+  ],
+  "Jollyrog": [
+    "fire"
+  ],
+  "Musper": [
+    "fire"
+  ],
+  "Acolyzard": [
+    "fire"
+  ],
+  "Salamancer": [
+    "fire"
+  ],
+  "Howligan": [
+    "fire"
+  ],
+  "Hunkymonkey": [
+    "wind"
+  ],
+  "Squirrelier": [
+    "fire"
+  ],
+  "Wallopbeast": [
+    "fire"
+  ],
+  "Bundashing": [
+    "fire"
+  ],
+  "Emperrabbit": [
+    "fire"
+  ],
+  "Bundito": [
+    "fire"
+  ],
+  "Zapdog": [
+    "fire"
+  ],
+  "Broilerdog": [
+    "fire"
+  ],
+  "Emperhare": [
+    "fire"
+  ],
+  "Tikibeaky": [
+    "fire"
+  ],
+  "Flashdog": [
+    "fire"
+  ],
+  "Monquerer": [
+    "fire"
+  ],
+  "Holidoe": [
+    "leaf"
+  ],
+  "Glowsaur": [
+    "leaf"
+  ],
+  "Heature": [
+    "fire"
+  ],
+  "Heagon": [
+    "fire"
+  ],
+  "Plasmolord": [
+    "fire"
+  ],
+  "Bundana": [
+    "fire"
+  ],
+  "Squire-rrel": [
+    "fire"
+  ],
+  "Nightspur": [
+    "leaf"
+  ],
+  "Astrobull": [
+    "leaf"
+  ],
+  "RoastingChicken": [
+    "fire"
+  ],
+  "Eggknight": [
+    "leaf"
+  ],
+  "Embertech": [
+    "leaf"
+  ],
+  "Crushbaby": [
+    "leaf"
+  ],
+  "Boathoven": [
+    "leaf"
+  ],
+  "Tikibeefy": [
+    "fire"
+  ],
+  "Yakcrown": [
+    "wind"
+  ],
+  "Embertank": [
+    "leaf"
+  ],
+  "Plasmolizard": [
+    "fire"
+  ],
+  "Growligan": [
+    "fire"
+  ],
+  "Boaconductor": [
+    "leaf"
+  ],
+  "Nightspunk": [
+    "leaf"
+  ],
+  "Tikitalon": [
+    "fire"
+  ],
+  "Brushbaby": [
+    "leaf"
+  ],
+  "Eggfight": [
+    "leaf"
+  ],
+  "Trentacle": [
+    "leaf"
+  ],
+  "Lokamoto": [
+    "leaf"
+  ],
+  "Mardigrowl": [
+    "leaf"
+  ],
+  "Eletrent": [
+    "leaf"
+  ],
+  "Swamppuppy": [
+    "rock",
+    "leaf"
+  ],
+  "Lokamojo": [
+    "leaf"
+  ],
+  "Gardengelding": [
+    "leaf"
+  ],
+  "Holideer": [
+    "leaf"
+  ],
+  "Boarlord": [
+    "leaf"
+  ],
+  "Froppy": [
+    "leaf"
+  ],
+  "Ricoshell": [
+    "leaf"
+  ],
+  "Bogpuppy": [
+    "rock",
+    "leaf"
+  ],
+  "Tikiblasty": [
+    "fire"
+  ],
+  "Treeture": [
+    "leaf"
+  ],
+  "Roastrooster": [
+    "fire"
+  ],
+  "Seeddog": [
+    "leaf"
+  ],
+  "Gardenarchon": [
+    "leaf"
+  ],
+  "Treepdog": [
+    "leaf"
+  ],
+  "Ricospike": [
+    "leaf"
+  ],
+  "Mardidog": [
+    "leaf"
+  ],
+  "Wilyboar": [
+    "leaf"
+  ],
+  "Brightsaur": [
+    "leaf"
+  ],
+  "Lushwolf": [
+    "leaf"
+  ],
+  "Bogeymantis": [
+    "leaf"
+  ],
+  "Buggyman": [
+    "leaf"
+  ],
+  "Cosmobull": [
+    "leaf"
+  ],
+  "Tuzi": [
+    "water"
+  ],
+  "Lushbeast": [
+    "leaf"
+  ],
+  "Rocknroyal": [
+    "rock"
+  ],
+  "PermaFroppy": [
+    "leaf"
+  ],
+  "Yuktopus": [
+    "water"
+  ],
+  "Fanghopper": [
+    "water"
+  ],
+  "Bluepanzer": [
+    "water"
+  ],
+  "Eggpelter": [
+    "leaf"
+  ],
+  "Gembeetle": [
+    "rock"
+  ],
+  "Thornhorn": [
+    "water"
+  ],
+  "Tentighoul": [
+    "water"
+  ],
+  "MightyArmboar": [
+    "leaf"
+  ],
+  "Scornhorn": [
+    "water"
+  ],
+  "Frodent": [
+    "water"
+  ],
+  "Mossmauler": [
+    "leaf"
+  ],
+  "Seature": [
+    "water"
+  ],
+  "Eggthrower": [
+    "leaf"
+  ],
+  "Armboar": [
+    "leaf"
+  ],
+  "Earthstrider": [
+    "rock"
+  ],
+  "Fangfrog": [
+    "water"
+  ],
+  "Sinder": [
+    "rock"
+  ],
+  "Raycat": [
+    "water"
+  ],
+  "Tuziking": [
+    "water"
+  ],
+  "Abyssfortune": [
+    "rock"
+  ],
+  "Clanine": [
+    "water"
+  ],
+  "Slowmover": [
+    "water"
+  ],
+  "Panzerbonanza": [
+    "water"
+  ],
+  "Rocknrollo": [
+    "rock"
+  ],
+  "Oldstone": [
+    "rock"
+  ],
+  "Aggrocrog": [
+    "rock"
+  ],
+  "Squindor": [
+    "water"
+  ],
+  "Luquis": [
+    "water"
+  ],
+  "Clabyss": [
+    "water"
+  ],
+  "Treegon": [
+    "leaf"
+  ],
+  "Missfortune": [
+    "rock"
+  ],
+  "Surfent": [
+    "water"
+  ],
+  "Sinfangfoom": [
+    "rock"
+  ],
+  "Grind-o-matic": [
+    "rock"
+  ],
+  "Mecherator": [
+    "rock"
+  ],
+  "Punch-o-matic": [
+    "rock"
+  ],
+  "Blocktops": [
+    "rock"
+  ],
+  "Freezmech": [
+    "water"
+  ],
+  "Tentacling": [
+    "water"
+  ],
+  "Zap-o-matic": [
+    "rock"
+  ],
+  "Blockbottom": [
+    "rock"
+  ],
+  "Weatherbane": [
+    "water"
+  ],
+  "Blubash": [
+    "rock"
+  ],
+  "Clayture": [
+    "rock"
+  ],
+  "Colemheart": [
+    "water"
+  ],
+  "Ancientstone": [
+    "rock"
+  ],
+  "Squindle": [
+    "water"
+  ],
+  "Eggerator": [
+    "rock"
+  ],
+  "Medicmouse": [
+    "water"
+  ],
+  "Flupus": [
+    "water"
+  ],
+  "Coralcat": [
+    "water"
+  ],
+  "Blublast": [
+    "rock"
+  ],
+  "Slabcrab": [
+    "rock"
+  ],
+  "Earthrider": [
+    "rock"
+  ],
+  "Cyanwarrior": [
+    "wind"
+  ],
+  "Slowgroover": [
+    "water"
+  ],
+  "Seagon": [
+    "water"
+  ],
+  "Coldheart": [
+    "water"
+  ],
+  "Cragcrab": [
+    "rock"
+  ],
+  "Snowdent": [
+    "water"
+  ],
+  "Fowlweather": [
+    "water"
+  ],
+  "Aviape": [
+    "wind"
+  ],
+  "Cyanknight": [
+    "wind"
+  ],
+  "Babloon": [
+    "wind"
+  ],
+  "Fallenmander": [
+    "wind"
+  ],
+  "Tentaking": [
+    "water"
+  ],
+  "Mossbrawler": [
+    "leaf"
+  ],
+  "Skeletabby": [
+    "rock"
+  ],
+  "Surgent": [
+    "water"
+  ],
+  "Skeletiger": [
+    "rock"
+  ],
+  "Taosaur": [
+    "wind"
+  ],
+  "Fennekit": [
+    "wind"
+  ],
+  "Talonmander": [
+    "wind"
+  ],
+  "Freezoid": [
+    "water"
+  ],
+  "Goldenruler": [
+    "wind"
+  ],
+  "Cleonness": [
+    "wind"
+  ],
+  "Fennecat": [
+    "wind"
+  ],
+  "Fopstopper": [
+    "wind"
+  ],
+  "Fophopper": [
+    "wind"
+  ],
+  "Toughcrog": [
+    "rock"
+  ],
+  "Taodon": [
+    "wind"
+  ],
+  "Muggernaut": [
+    "wind"
+  ],
+  "Leolet": [
+    "wind"
+  ],
+  "Huggernaut": [
+    "wind"
+  ],
+  "Sugarcrane": [
+    "wind"
+  ],
+  "Paleglider": [
+    "wind"
+  ],
+  "Execrowtioner": [
+    "wind"
+  ],
+  "Palemell": [
+    "wind"
+  ],
+  "Gembug": [
+    "rock"
+  ],
+  "Crowst": [
+    "wind"
+  ],
+  "Wispture": [
+    "wind"
+  ],
+  "Pwnguin": [
+    "fire"
+  ],
+  "StingKing": [
+    "wind"
+  ],
+  "Wispon": [
+    "wind"
+  ],
+  "Violio": [
+    "wind"
+  ],
+  "Deviledegg": [
+    "fire"
+  ],
+  "MASHmouse": [
+    "water"
+  ],
+  "Combustabull": [
+    "fire"
+  ],
+  "Clayon": [
+    "rock"
+  ],
+  "Goldencrow": [
+    "wind"
+  ],
+  "Flax": [
+    "fire"
+  ],
+  "Badegg": [
+    "fire"
+  ],
+  "Pigrate": [
+    "fire"
+  ],
+  "Ramboree": [
+    "fire"
+  ],
+  "Boostbear": [
+    "fire"
+  ],
+  "Heartgoblin": [
+    "fire"
+  ],
+  "Cleocatra": [
+    "wind"
+  ],
+  "Creepercritter": [
+    "leaf"
+  ],
+  "Creepbeast": [
+    "leaf"
+  ],
+  "Pigtain": [
+    "fire"
+  ],
+  "Eldershroom": [
+    "leaf"
+  ],
+  "Embercritter": [
+    "fire"
+  ],
+  "Mohachi": [
+    "fire"
+  ],
+  "Feufae": [
+    "fire"
+  ],
+  "Peepernel": [
+    "leaf"
+  ],
+  "Dyngo": [
+    "leaf"
+  ],
+  "Emperor Pwnguin": [
+    "fire"
+  ],
+  "Skulldera": [
+    "fire"
+  ],
+  "Kittelabra": [
+    "fire"
+  ],
+  "Hardygrowl": [
+    "leaf"
+  ],
+  "Spacewalker": [
+    "leaf"
+  ],
+  "Boomdog": [
+    "fire"
+  ],
+  "Peepsqueak": [
+    "leaf"
+  ],
+  "Sumodoom": [
+    "fire"
+  ],
+  "Shellblock": [
+    "leaf"
+  ],
+  "Gnawshuck": [
+    "leaf"
+  ],
+  "Tyrantula": [
+    "water"
+  ],
+  "Duphonic": [
+    "leaf"
+  ],
+  "Seekshell": [
+    "fire"
+  ],
+  "Trant": [
+    "leaf"
+  ],
+  "Roastler": [
+    "fire"
+  ],
+  "Toughshell": [
+    "leaf"
+  ],
+  "Elderbloom": [
+    "leaf"
+  ],
+  "Gnawchuck": [
+    "leaf"
+  ],
+  "Darkphennix": [
+    "fire"
+  ],
+  "Buffbear": [
+    "fire"
+  ],
+  "Catalabra": [
+    "fire"
+  ],
+  "Emperat": [
+    "water"
+  ],
+  "Smokeghost": [
+    "leaf"
+  ],
+  "Forestleaper": [
+    "leaf"
+  ],
+  "Logshund": [
+    "leaf"
+  ],
+  "Grayhawk": [
+    "leaf"
+  ],
+  "Spacestalker": [
+    "leaf"
+  ],
+  "Boingdroid": [
+    "leaf"
+  ],
+  "Shusleuth": [
+    "water"
+  ],
+  "Mohawki": [
+    "fire"
+  ],
+  "Springo": [
+    "leaf"
+  ],
+  "Sproingdroid": [
+    "leaf"
+  ],
+  "Brightfang": [
+    "leaf"
+  ],
+  "Dynoflight": [
+    "water"
+  ],
+  "Clawesome": [
+    "water"
+  ],
+  "Toastler": [
+    "fire"
+  ],
+  "Smokegeist": [
+    "leaf"
+  ],
+  "Feuflyer": [
+    "fire"
+  ],
+  "Skulldog": [
+    "leaf"
+  ],
+  "Referowl": [
+    "fire"
+  ],
+  "Cranebow": [
+    "wind"
+  ],
+  "Hydrapixie": [
+    "water"
+  ],
+  "Ruester": [
+    "water"
+  ],
+  "Loggydoggy": [
+    "leaf"
+  ],
+  "Grayjay": [
+    "leaf"
+  ],
+  "Skullhound": [
+    "leaf"
+  ],
+  "Skullcano": [
+    "fire"
+  ],
+  "Forestsprinter": [
+    "leaf"
+  ],
+  "Dripchick": [
+    "water"
+  ],
+  "Battleflax": [
+    "fire"
+  ],
+  "SeniorReferowl": [
+    "fire"
+  ],
+  "Orberlord": [
+    "water"
+  ],
+  "Doomdog": [
+    "fire"
+  ],
+  "Clawfish": [
+    "water"
+  ],
+  "Moltenmutt": [
+    "fire"
+  ],
+  "Gigadrone": [
+    "fire"
+  ],
+  "Hydragenie": [
+    "water"
+  ],
+  "Hardydog": [
+    "leaf"
+  ],
+  "Dropster": [
+    "water"
+  ],
+  "Sumoroo": [
+    "fire"
+  ],
+  "Ocuwalrus": [
+    "water"
+  ],
+  "Guppypuppy": [
+    "water"
+  ],
+  "Stingthing": [
+    "wind"
+  ],
+  "Phennix": [
+    "fire"
+  ],
+  "Brillfin": [
+    "water"
+  ],
+  "Moltenmongrel": [
+    "fire"
+  ],
+  "Embeast": [
+    "fire"
+  ],
+  "Roverborg": [
+    "water"
+  ],
+  "Trantman": [
+    "leaf"
+  ],
+  "Cintaurus": [
+    "fire"
+  ],
+  "Dynoshock": [
+    "water"
+  ],
+  "Omniocuwalrus": [
+    "water"
+  ],
+  "Duphonitron": [
+    "leaf"
+  ],
+  "Broodster": [
+    "water"
+  ],
+  "Sneakseeker": [
+    "fire"
+  ],
+  "Gilfin": [
+    "water"
+  ],
+  "Megadrone": [
+    "fire"
+  ],
+  "Brokenharpy": [
+    "fire"
+  ],
+  "Riverbeast": [
+    "water"
+  ],
+  "Pitskull": [
+    "water"
+  ],
+  "Pupskull": [
+    "water"
+  ],
+  "Glowfang": [
+    "leaf"
+  ],
+  "Rivercritter": [
+    "water"
+  ],
+  "Hoverborg": [
+    "water"
+  ],
+  "Dynomight": [
+    "water"
+  ],
+  "Lamboree": [
+    "fire"
+  ],
+  "Puddlepuppy": [
+    "water"
+  ],
+  "Wellhound": [
+    "water"
+  ],
+  "Floodhound": [
+    "water"
+  ],
+  "Rockgremlin": [
+    "rock"
+  ],
+  "Boxbot": [
+    "rock"
+  ],
+  "Helphound": [
+    "water"
+  ],
+  "Aquabuff": [
+    "water"
+  ],
+  "Rockgoblin": [
+    "rock"
+  ],
+  "Healhound": [
+    "water"
+  ],
+  "Seamese": [
+    "water"
+  ],
+  "Blockbot": [
+    "rock"
+  ],
+  "Aqualift": [
+    "water"
+  ],
+  "Shellynx": [
+    "rock"
+  ],
+  "Geostompus": [
+    "rock"
+  ],
+  "Drillodum": [
+    "rock"
+  ],
+  "Drillodee": [
+    "rock"
+  ],
+  "Sealine": [
+    "water"
+  ],
+  "Geomorphus": [
+    "rock"
+  ],
+  "Kyukit": [
+    "rock"
+  ],
+  "Gravelstone": [
+    "rock"
+  ],
+  "Caribell": [
+    "rock"
+  ],
+  "Caribling": [
+    "rock"
+  ],
+  "Gravelanche": [
+    "rock"
+  ],
+  "Songcrete": [
+    "rock"
+  ],
+  "Grusk": [
+    "rock"
+  ],
+  "Judopanda": [
+    "rock"
+  ],
+  "Songkong": [
+    "rock"
+  ],
+  "Cratercritter": [
+    "rock"
+  ],
+  "Masketta": [
+    "fire"
+  ],
+  "Grusker": [
+    "rock"
+  ],
+  "Hibiscuit": [
+    "fire"
+  ],
+  "Lil Green Mon": [
+    "leaf"
+  ],
+  "Hot Chocolate": [
+    "fire"
+  ],
+  "Wammerhead": [
+    "rock"
+  ],
+  "KathyKoala": [
+    "leaf"
+  ],
+  "Bammerhead": [
+    "rock"
+  ],
+  "Chocolate": [
+    "fire"
+  ],
+  "Glowleaf": [
+    "leaf"
+  ],
+  "Heart Candy": [
+    "fire"
+  ],
+  "Lantern": [
+    "fire"
+  ],
+  "Flutturtle": [
+    "wind"
+  ],
+  "Bonkkong": [
+    "rock"
+  ],
+  "Pupfly": [
+    "wind"
+  ],
+  "Craterbeast": [
+    "rock"
+  ],
+  "Apple": [
+    "leaf"
+  ],
+  "Elfling": [
+    "fire"
+  ],
+  "Key Lime": [
+    "leaf"
+  ],
+  "Mechanic": [
+    "rock"
+  ],
+  "Nanobot": [
+    "water"
+  ],
+  "Violetcrook": [
+    "wind"
+  ],
+  "Debugger": [
+    "rock"
+  ],
+  "Puja": [
+    "water"
+  ],
+  "Devil": [
+    "rock"
+  ],
+  "Baking Soda": [
+    "wind"
+  ],
+  "Shredhead": [
+    "rock"
+  ],
+  "Glyph": [
+    "rock"
+  ],
+  "Roilty": [
+    "wind"
+  ],
+  "Roilcoil": [
+    "wind"
+  ],
+  "Spybot": [
+    "rock"
+  ],
+  "Mushroom": [
+    "leaf"
+  ],
+  "Coal": [
+    "rock"
+  ],
+  "Mind’s Eye": [
+    "rock"
+  ],
+  "Light": [
+    "wind"
+  ],
+  "Muffle": [
+    "wind"
+  ],
+  "Foofur": [
+    "wind"
+  ],
+  "Seashell": [
+    "water"
+  ],
+  "Infiltrator": [
+    "wind"
+  ],
+  "Adoracub": [
+    "wind"
+  ],
+  "Cursor": [
+    "wind"
+  ],
+  "Chocolead": [
+    "wind"
+  ],
+  "Fuzzooka": [
+    "wind"
+  ],
+  "Glittercritter": [
+    "wind"
+  ],
+  "Bugthra": [
+    "wind"
+  ],
+  "Roostacabra": [
+    "wind"
+  ],
+  "Fuzzicorn": [
+    "wind"
+  ],
+  "Fuzzgun": [
+    "wind"
+  ],
+  "Peacfowl": [
+    "wind"
+  ],
+  "Skrigand": [
+    "wind"
+  ],
+  "Soarnado": [
+    "wind"
+  ],
+  "SuperShredhead": [
+    "rock"
+  ],
+  "Fluttortoise": [
+    "wind"
+  ],
+  "Roarnado": [
+    "wind"
+  ],
+  "Tranqowl": [
+    "wind"
+  ],
+  "Marshmallow": [
+    "wind"
+  ],
+  "Slingkong": [
+    "rock"
+  ],
+  "Rabbolster": [
+    "wind"
+  ],
+  "Violetthief": [
+    "wind"
+  ],
+  "Sumopanda": [
+    "rock"
+  ],
+  "Roosberry": [
+    "wind"
+  ],
+  "Snugslug": [
+    "wind"
+  ],
+  "Snugglefly": [
+    "wind"
+  ],
+  "Rabboost": [
+    "wind"
+  ],
+  "Glitterbeast": [
+    "wind"
+  ],
+  "Skrivateer": [
+    "wind"
+  ],
+  "Blueroosberry": [
+    "wind"
+  ],
+  "Carbonlord": [
+    "fire",
+    "rock"
+  ],
+  "Snowball": [
+    "water"
+  ],
+  "Infernodemon": [
+    "fire",
+    "wind"
+  ],
+  "Cinderlord": [
+    "fire",
+    "rock"
+  ],
+  "Flaredemon": [
+    "fire",
+    "wind"
+  ],
+  "Blazedemon": [
+    "fire",
+    "wind"
+  ],
+  "Flareowl": [
+    "fire",
+    "wind"
+  ],
+  "Infernowl": [
+    "fire",
+    "wind"
+  ],
+  "Chickacabra": [
+    "wind"
+  ],
+  "Infernoclaw": [
+    "fire",
+    "leaf"
+  ],
+  "Flareclaw": [
+    "fire",
+    "leaf"
+  ],
+  "Blazeowl": [
+    "fire",
+    "wind"
+  ],
+  "Emberlord": [
+    "fire",
+    "rock"
+  ],
+  "VelvetBird": [
+    "fire",
+    "rock"
+  ],
+  "Hellclaw": [
+    "fire",
+    "leaf"
+  ],
+  "Capiwave": [
+    "fire",
+    "water"
+  ],
+  "Firefowl": [
+    "fire",
+    "rock"
+  ],
+  "Flarerabbit": [
+    "fire",
+    "wind"
+  ],
+  "Kindling": [
+    "fire",
+    "wind"
+  ],
+  "Capijet": [
+    "fire",
+    "water"
+  ],
+  "Flyfie": [
+    "fire",
+    "leaf"
+  ],
+  "Novabunny": [
+    "fire",
+    "wind"
+  ],
+  "Skyrrel": [
+    "fire",
+    "leaf"
+  ],
+  "VelvetLord": [
+    "fire",
+    "rock"
+  ],
+  "Capinami": [
+    "fire",
+    "water"
+  ],
+  "Flarebunny": [
+    "fire",
+    "wind"
+  ],
+  "Cindermaw": [
+    "fire",
+    "leaf"
+  ],
+  "Darkwood": [
+    "fire"
+  ],
+  "Astaferno": [
+    "fire",
+    "rock"
+  ],
+  "Impferno": [
+    "fire",
+    "rock"
+  ],
+  "Treeath": [
+    "fire",
+    "leaf"
+  ],
+  "Spiritfire": [
+    "fire",
+    "wind"
+  ],
+  "Luciferno": [
+    "fire",
+    "rock"
+  ],
+  "Devilwood": [
+    "fire"
+  ],
+  "Silvark": [
+    "fire",
+    "leaf"
+  ],
+  "Tauscat": [
+    "fire",
+    "leaf"
+  ],
+  "Frostflare": [
+    "fire",
+    "water"
+  ],
+  "Swamptusk": [
+    "rock",
+    "leaf"
+  ],
+  "Madamtrix": [
+    "wind",
+    "leaf"
+  ],
+  "Tinderbot": [
+    "fire",
+    "leaf"
+  ],
+  "Skeleviper": [
+    "water",
+    "leaf"
+  ],
+  "Queenquill": [
+    "wind",
+    "leaf"
+  ],
+  "Empresswing": [
+    "wind",
+    "leaf"
+  ],
+  "Jollywolf": [
+    "wind",
+    "leaf"
+  ],
+  "Snowfire": [
+    "fire",
+    "water"
+  ],
+  "Emeraldkhan": [
+    "leaf"
+  ],
+  "Lumppup": [
+    "fire",
+    "leaf"
+  ],
+  "Fentusk": [
+    "rock",
+    "leaf"
+  ],
+  "Beaucat": [
+    "fire",
+    "leaf"
+  ],
+  "Pyrebot": [
+    "fire",
+    "leaf"
+  ],
+  "Ashenflame": [
+    "fire",
+    "wind"
+  ],
+  "Peacat": [
+    "fire",
+    "leaf"
+  ],
+  "Hollywolf": [
+    "wind",
+    "leaf"
+  ],
+  "Emeraldlord": [
+    "leaf"
+  ],
+  "Bogtusk": [
+    "rock",
+    "leaf"
+  ],
+  "Cockee": [
+    "rock",
+    "leaf"
+  ],
+  "Adori": [
+    "rock",
+    "leaf"
+  ],
+  "Glitchtrix": [
+    "wind",
+    "leaf"
+  ],
+  "Wreathferno": [
+    "fire",
+    "leaf"
+  ],
+  "Mechahound": [
+    "rock",
+    "leaf"
+  ],
+  "Frostferno": [
+    "fire",
+    "water"
+  ],
+  "Blightwood": [
+    "fire"
+  ],
+  "Fuegote": [
+    "fire",
+    "leaf"
+  ],
+  "Emeraldking": [
+    "leaf"
+  ],
+  "Blossombird": [
+    "wind",
+    "leaf"
+  ],
+  "Queenwing": [
+    "wind",
+    "leaf"
+  ],
+  "Mizumander": [
+    "water"
+  ],
+  "Maullywolf": [
+    "wind",
+    "leaf"
+  ],
+  "Murugan": [
+    "rock",
+    "leaf"
+  ],
+  "Skelenake": [
+    "water",
+    "leaf"
+  ],
+  "Flesheater": [
+    "leaf"
+  ],
+  "Peakiwi": [
+    "rock",
+    "leaf"
+  ],
+  "Skeleconda": [
+    "water",
+    "leaf"
+  ],
+  "Amourilla": [
+    "rock",
+    "leaf"
+  ],
+  "Puppyrover": [
+    "rock",
+    "leaf"
+  ],
+  "Mizumaster": [
+    "water"
+  ],
+  "Amanai": [
+    "rock",
+    "leaf"
+  ],
+  "DameAdler": [
+    "wind",
+    "leaf"
+  ],
+  "Merryt": [
+    "fire",
+    "leaf"
+  ],
+  "Claydragon": [
+    "water",
+    "rock"
+  ],
+  "Fleshdevourer": [
+    "leaf"
+  ],
+  "Miredragon": [
+    "water",
+    "rock"
+  ],
+  "MajorCanis": [
+    "rock",
+    "leaf"
+  ],
+  "Mizumage": [
+    "water"
+  ],
+  "Blazebot": [
+    "fire",
+    "leaf"
+  ],
+  "Bloombird": [
+    "wind",
+    "leaf"
+  ],
+  "Fleshravager": [
+    "leaf"
+  ],
+  "Knightaur": [
+    "fire",
+    "water"
+  ],
+  "Coralidux": [
+    "water",
+    "leaf"
+  ],
+  "Gravedragon": [
+    "water",
+    "rock"
+  ],
+  "Frostkitsune": [
+    "water",
+    "wind"
+  ],
+  "Snowkitsune": [
+    "water",
+    "wind"
+  ],
+  "Leithfish": [
+    "water",
+    "wind"
+  ],
+  "Showka": [
+    "water",
+    "wind"
+  ],
+  "Coralithite": [
+    "water",
+    "leaf"
+  ],
+  "Asadfish": [
+    "water",
+    "wind"
+  ],
+  "Rimekitsune": [
+    "water",
+    "wind"
+  ],
+  "FrostFever": [
+    "water",
+    "rock"
+  ],
+  "Seataur": [
+    "fire",
+    "water"
+  ],
+  "Slugfriend": [
+    "water",
+    "leaf"
+  ],
+  "Squitaur": [
+    "fire",
+    "water"
+  ],
+  "Florescence": [
+    "wind",
+    "leaf"
+  ],
+  "Coralithan": [
+    "water",
+    "leaf"
+  ],
+  "Pysanka": [
+    "fire",
+    "water"
+  ],
+  "FermiFrost": [
+    "water",
+    "rock"
+  ],
+  "Dudoom": [
+    "fire",
+    "water"
+  ],
+  "Kinderchick": [
+    "fire",
+    "water"
+  ],
+  "Dudominator": [
+    "fire",
+    "water"
+  ],
+  "HoarFrost": [
+    "water",
+    "rock"
+  ],
+  "Seawitch": [
+    "water",
+    "leaf"
+  ],
+  "Dudu": [
+    "fire",
+    "water"
+  ],
+  "Sempress": [
+    "water",
+    "leaf"
+  ],
+  "Tidelume": [
+    "water",
+    "rock"
+  ],
+  "Aquanix": [
+    "water",
+    "rock"
+  ],
+  "Eggsy": [
+    "fire",
+    "water"
+  ],
+  "Terraclasm": [
+    "rock"
+  ],
+  "Terrachasm": [
+    "rock"
+  ],
+  "Seapony": [
+    "water",
+    "wind"
+  ],
+  "Aquaking": [
+    "water",
+    "wind"
+  ],
+  "Santapod": [
+    "water",
+    "leaf"
+  ],
+  "Dendrocosmic": [
+    "rock",
+    "leaf"
+  ],
+  "Deathdragon": [
+    "rock",
+    "wind"
+  ],
+  "Bouldercrag": [
+    "rock",
+    "wind"
+  ],
+  "Dendroptic": [
+    "rock",
+    "leaf"
+  ],
+  "Terracrunch": [
+    "rock"
+  ],
+  "Alacrag": [
+    "rock",
+    "wind"
+  ],
+  "Seaqueen": [
+    "water",
+    "leaf"
+  ],
+  "Lagias": [
+    "water",
+    "rock"
+  ],
+  "Oceanhorse": [
+    "water",
+    "wind"
+  ],
+  "Steepcrag": [
+    "rock",
+    "wind"
+  ],
+  "Emberclaus": [
+    "fire",
+    "rock"
+  ],
+  "Spiralflux": [
+    "wind"
+  ],
+  "Celestialnado": [
+    "rock",
+    "wind"
+  ],
+  "Laprados": [
+    "water",
+    "rock"
+  ],
+  "Cosmonado": [
+    "rock",
+    "wind"
+  ],
+  "Oakash": [
+    "water",
+    "wind"
+  ],
+  "Stonefawn": [
+    "rock",
+    "wind"
+  ],
+  "Combustoak": [
+    "water",
+    "wind"
+  ],
+  "Celestag": [
+    "rock",
+    "wind"
+  ],
+  "Dendrobell": [
+    "rock",
+    "leaf"
+  ],
+  "Gemerald": [
+    "rock",
+    "leaf"
+  ],
+  "Tsunamithan": [
+    "water",
+    "rock"
+  ],
+  "Ascendelk": [
+    "rock",
+    "wind"
+  ],
+  "Gemi": [
+    "rock",
+    "leaf"
+  ],
+  "Pupapuppy": [
+    "rock",
+    "wind"
+  ],
+  "Pinkcharm": [
+    "rock",
+    "leaf"
+  ],
+  "Smoak": [
+    "water",
+    "wind"
+  ],
+  "Terranado": [
+    "rock",
+    "wind"
+  ],
+  "Icewyrm": [
+    "rock",
+    "wind"
+  ],
+  "Sunwyrm": [
+    "fire",
+    "wind"
+  ],
+  "Eldergrove": [
+    "wind",
+    "leaf"
+  ],
+  "Chillwyrm": [
+    "rock",
+    "wind"
+  ],
+  "Novawyrm": [
+    "fire",
+    "wind"
+  ],
+  "Emberstorm": [
+    "fire",
+    "rock"
+  ],
+  "Festislug": [
+    "water",
+    "leaf"
+  ],
+  "Doubleflux": [
+    "wind"
+  ],
+  "Bonedragon": [
+    "rock",
+    "wind"
+  ],
+  "Starwyrm": [
+    "fire",
+    "wind"
+  ],
+  "Pesterflux": [
+    "wind"
+  ],
+  "Emberboulder": [
+    "fire",
+    "rock"
+  ],
+  "Gemirin": [
+    "rock",
+    "leaf"
+  ],
+  "Cryowrym": [
+    "rock",
+    "wind"
+  ],
+  "Skulldragon": [
+    "rock",
+    "wind"
+  ],
+  "Woofsalis": [
+    "rock",
+    "wind"
+  ],
+  "Baphofrit": [
+    "fire"
+  ],
+  "Verdanthorn": [
+    "wind",
+    "leaf"
+  ],
+  "Lavakong": [
+    "fire",
+    "wind"
+  ],
+  "Twinblaze": [
+    "fire"
+  ],
+  "Siamoth": [
+    "rock",
+    "wind"
+  ],
+  "Magmakong": [
+    "fire",
+    "wind"
+  ],
+  "Pinkmagic": [
+    "rock",
+    "leaf"
+  ],
+  "Teddyscare": [
+    "fire",
+    "leaf"
+  ],
+  "Arborath": [
+    "wind",
+    "leaf"
+  ],
+  "Teddyflare": [
+    "fire",
+    "leaf"
+  ],
+  "Twinspark": [
+    "fire"
+  ],
+  "Igneokong": [
+    "fire",
+    "wind"
+  ],
+  "Baphofant": [
+    "fire"
+  ],
+  "Baphogon": [
+    "fire"
+  ],
+  "Pinkgrace": [
+    "rock",
+    "leaf"
+  ],
+  "Twinferno": [
+    "fire"
+  ],
+  "Jaguard": [
+    "fire",
+    "water"
+  ],
+  "Gryphkeen": [
+    "fire",
+    "rock"
+  ],
+  "Jagvalier": [
+    "fire",
+    "water"
+  ],
+  "Venommoth": [
+    "fire",
+    "rock"
+  ],
+  "Jaguarrior": [
+    "fire",
+    "water"
+  ],
+  "Flamesage": [
+    "fire",
+    "leaf"
+  ],
+  "Toxy": [
+    "fire",
+    "rock"
+  ],
+  "Chainspark": [
+    "fire",
+    "wind"
+  ],
+  "Pyrobot": [
+    "fire"
+  ],
+  "Teddyferno": [
+    "fire",
+    "leaf"
+  ],
+  "Blazebranch": [
+    "fire",
+    "leaf"
+  ],
+  "Hexagriff": [
+    "fire",
+    "rock"
+  ],
+  "Dawnbringer": [
+    "fire",
+    "leaf"
+  ],
+  "Chainspirit": [
+    "fire",
+    "wind"
+  ],
+  "Chainmaster": [
+    "fire",
+    "wind"
+  ],
+  "Jinglebelladonna": [
+    "fire",
+    "water"
+  ],
+  "Jinglebelle": [
+    "fire",
+    "water"
+  ],
+  "Skelerelk": [
+    "fire",
+    "water"
+  ],
+  "DirtyTrixster": [
+    "fire"
+  ],
+  "MagicTrixster": [
+    "fire"
+  ],
+  "Zeph": [
+    "fire",
+    "wind"
+  ],
+  "Infernobot": [
+    "fire"
+  ],
+  "Goldcritter": [
+    "fire"
+  ],
+  "Skeledeer": [
+    "fire",
+    "water"
+  ],
+  "Gryffina": [
+    "fire",
+    "rock"
+  ],
+  "ApexDreadator": [
+    "fire"
+  ],
+  "Dreadgnat": [
+    "fire"
+  ],
+  "GoldenRegal": [
+    "fire"
+  ],
+  "Zephius": [
+    "fire",
+    "wind"
+  ],
+  "Enormoss": [
+    "leaf"
+  ],
+  "Dreadator": [
+    "fire"
+  ],
+  "Goldensummit": [
+    "fire"
+  ],
+  "Skeleruptor": [
+    "fire",
+    "water"
+  ],
+  "Mammoss": [
+    "leaf"
+  ],
+  "Miasmeer": [
+    "fire",
+    "rock"
+  ],
+  "Owlcifer": [
+    "leaf"
+  ],
+  "Sprouthowl": [
+    "rock",
+    "leaf"
+  ],
+  "Grabbear": [
+    "fire",
+    "leaf"
+  ],
+  "Gladeking": [
+    "rock",
+    "leaf"
+  ],
+  "Jingle": [
+    "fire",
+    "water"
+  ],
+  "Thornhowl": [
+    "rock",
+    "leaf"
+  ],
+  "Swampking": [
+    "rock",
+    "leaf"
+  ],
+  "Zephial": [
+    "fire",
+    "wind"
+  ],
+  "Fuchiaborg": [
+    "water",
+    "leaf"
+  ],
+  "Dokkimaen": [
+    "wind",
+    "leaf"
+  ],
+  "Devibot": [
+    "fire"
+  ],
+  "Behemoss": [
+    "leaf"
+  ],
+  "Heulgdokki": [
+    "wind",
+    "leaf"
+  ],
+  "Equestralline": [
+    "leaf"
+  ],
+  "Feldspar": [
+    "water",
+    "leaf"
+  ],
+  "Pounamuhop": [
+    "wind",
+    "leaf"
+  ],
+  "Grabbit": [
+    "fire",
+    "leaf"
+  ],
+  "Crystallion": [
+    "leaf"
+  ],
+  "Bogking": [
+    "rock",
+    "leaf"
+  ],
+  "CrushNugget": [
+    "rock",
+    "leaf"
+  ],
+  "CoreNugget": [
+    "rock",
+    "leaf"
+  ],
+  "Segmentasus": [
+    "leaf"
+  ],
+  "Owlchimedes": [
+    "leaf"
+  ],
+  "Budbot": [
+    "water",
+    "leaf"
+  ],
+  "Dokkikkoli": [
+    "wind",
+    "leaf"
+  ],
+  "Vinehowl": [
+    "rock",
+    "leaf"
+  ],
+  "Mahinata": [
+    "water",
+    "leaf"
+  ],
+  "MagNugget": [
+    "rock",
+    "leaf"
+  ],
+  "Mahimanesca": [
+    "water",
+    "leaf"
+  ],
+  "Greenhop": [
+    "wind",
+    "leaf"
+  ],
+  "Adamantis": [
+    "wind",
+    "leaf"
+  ],
+  "Tuffpink": [
+    "water",
+    "leaf"
+  ],
+  "Bloombot": [
+    "water",
+    "leaf"
+  ],
+  "Winterbrute": [
+    "wind",
+    "leaf"
+  ],
+  "Norstorm": [
+    "wind",
+    "leaf"
+  ],
+  "Blossombot": [
+    "water",
+    "leaf"
+  ],
+  "Grabbking": [
+    "fire",
+    "leaf"
+  ],
+  "Huhu": [
+    "rock",
+    "leaf"
+  ],
+  "Latrodeath": [
+    "leaf"
+  ],
+  "Huhusaur": [
+    "rock",
+    "leaf"
+  ],
+  "Typhoros": [
+    "rock",
+    "leaf"
+  ],
+  "Cragtroll": [
+    "rock",
+    "leaf"
+  ],
+  "Latrotoxis": [
+    "leaf"
+  ],
+  "Typhi": [
+    "rock",
+    "leaf"
+  ],
+  "Trixster": [
+    "fire"
+  ],
+  "Meowlet": [
+    "leaf"
+  ],
+  "Sunderhunter": [
+    "leaf"
+  ],
+  "Sunderlizard": [
+    "leaf"
+  ],
+  "Niuhuhu": [
+    "rock",
+    "leaf"
+  ],
+  "Jungleferno": [
+    "fire",
+    "leaf"
+  ],
+  "Sapfire": [
+    "fire",
+    "leaf"
+  ],
+  "Emperorfrog": [
+    "wind",
+    "leaf"
+  ],
+  "Entaur": [
+    "leaf"
+  ],
+  "Latroblight": [
+    "leaf"
+  ],
+  "Clayzilla": [
+    "water",
+    "rock"
+  ],
+  "Mirezilla": [
+    "water",
+    "rock"
+  ],
+  "Aburrmination": [
+    "water"
+  ],
+  "Yetiko": [
+    "wind",
+    "leaf"
+  ],
+  "Snowbear": [
+    "water",
+    "wind"
+  ],
+  "Enturion": [
+    "leaf"
+  ],
+  "Bundertaker": [
+    "leaf"
+  ],
+  "Kingfin": [
+    "wind",
+    "leaf"
+  ],
+  "Iceburr": [
+    "water"
+  ],
+  "Klondike Burrr": [
+    "water"
+  ],
+  "Claydrake": [
+    "water",
+    "rock"
+  ],
+  "Wingpocampus": [
+    "water",
+    "wind"
+  ],
+  "Treeblaze": [
+    "fire",
+    "leaf"
+  ],
+  "Sundermonger": [
+    "leaf"
+  ],
+  "Mireconch": [
+    "water",
+    "rock"
+  ],
+  "Empresscampus": [
+    "water",
+    "wind"
+  ],
+  "Floodryu": [
+    "water",
+    "wind"
+  ],
+  "Bunderbuss": [
+    "leaf"
+  ],
+  "Gravezilla": [
+    "water",
+    "rock"
+  ],
+  "Kingfrog": [
+    "wind",
+    "leaf"
+  ],
+  "Clayconch": [
+    "water",
+    "rock"
+  ],
+  "Gravedrake": [
+    "water",
+    "rock"
+  ],
+  "Saberyu": [
+    "water",
+    "wind"
+  ],
+  "Graveconch": [
+    "water",
+    "rock"
+  ],
+  "Blindlight": [
+    "fire",
+    "water"
+  ],
+  "Snowphid": [
+    "water",
+    "leaf"
+  ],
+  "AugurDazzle": [
+    "fire",
+    "water"
+  ],
+  "Frostbear": [
+    "water",
+    "wind"
+  ],
+  "Typhoreign": [
+    "rock",
+    "leaf"
+  ],
+  "Aera": [
+    "water"
+  ],
+  "Bruno": [
+    "water",
+    "rock"
+  ],
+  "Solsticefire": [
+    "fire",
+    "water"
+  ],
+  "Ladpole": [
+    "water",
+    "leaf"
+  ],
+  "Tentaweb": [
+    "fire",
+    "water"
+  ],
+  "KingBruno": [
+    "water",
+    "rock"
+  ],
+  "Octorafa": [
+    "fire",
+    "water"
+  ],
+  "BruteBruno": [
+    "water",
+    "rock"
+  ],
+  "Icemander": [
+    "water",
+    "leaf"
+  ],
+  "Bundam": [
+    "leaf"
+  ],
+  "Yuletorch": [
+    "fire",
+    "water"
+  ],
+  "Illuminaga": [
+    "fire",
+    "water"
+  ],
+  "Waddli": [
+    "water",
+    "rock"
+  ],
+  "Entchanter": [
+    "leaf"
+  ],
+  "Icewarden": [
+    "water",
+    "rock"
+  ],
+  "Krakennar": [
+    "fire",
+    "water"
+  ],
+  "Drizzleryu": [
+    "water",
+    "wind"
+  ],
+  "Ignisara": [
+    "fire",
+    "water"
+  ],
+  "Mahiqueen": [
+    "water",
+    "leaf"
+  ],
+  "Trollolith": [
+    "rock",
+    "leaf"
+  ],
+  "Rimebear": [
+    "water",
+    "wind"
+  ],
+  "Seahoof": [
+    "water",
+    "leaf"
+  ],
+  "Queenpocampus": [
+    "water",
+    "wind"
+  ],
+  "Seaggitarius": [
+    "water",
+    "leaf"
+  ],
+  "Miredrake": [
+    "water",
+    "rock"
+  ],
+  "Sundaemon": [
+    "water"
+  ],
+  "Sundaebest": [
+    "water"
+  ],
+  "Sasquash": [
+    "water"
+  ],
+  "Seatyr": [
+    "water",
+    "leaf"
+  ],
+  "Sasquish": [
+    "water"
+  ],
+  "Megacerberus": [
+    "rock"
+  ],
+  "Griffowl": [
+    "water"
+  ],
+  "Valtalon": [
+    "water"
+  ],
+  "Seraphbit Heraph": [
+    "rock"
+  ],
+  "Gigacerberus": [
+    "rock"
+  ],
+  "Lavadrake": [
+    "fire",
+    "rock"
+  ],
+  "Valcon": [
+    "water"
+  ],
+  "Lavascourge": [
+    "fire",
+    "rock"
+  ],
+  "Teracerberus": [
+    "rock"
+  ],
+  "Seedwolf": [
+    "rock",
+    "leaf"
+  ],
+  "Magmascourge": [
+    "fire",
+    "rock"
+  ],
+  "Dryabbit": [
+    "rock"
+  ],
+  "Rainwhale": [
+    "rock",
+    "wind"
+  ],
+  "Igneoscourge": [
+    "fire",
+    "rock"
+  ],
+  "Aeralea": [
+    "water"
+  ],
+  "Bunnymph": [
+    "rock"
+  ],
+  "Bunnysundae": [
+    "water"
+  ],
+  "Deathscythe": [
+    "rock",
+    "wind"
+  ],
+  "Igneodrake": [
+    "fire",
+    "rock"
+  ],
+  "Magmadrake": [
+    "fire",
+    "rock"
+  ],
+  "TruEvilathon": [
+    "water"
+  ],
+  "Longscut": [
+    "rock",
+    "leaf"
+  ],
+  "Sasquake": [
+    "water"
+  ],
+  "Tempestwhale": [
+    "rock",
+    "wind"
+  ],
+  "Levilethan": [
+    "water"
+  ],
+  "Plasmalumu": [
+    "rock",
+    "wind"
+  ],
+  "Radvolt": [
+    "rock",
+    "wind"
+  ],
+  "Devilathan": [
+    "water"
+  ],
+  "Conkwolf": [
+    "rock",
+    "leaf"
+  ],
+  "Staticur": [
+    "rock",
+    "wind"
+  ],
+  "Bonescythe": [
+    "rock",
+    "wind"
+  ],
+  "Stormwhale": [
+    "rock",
+    "wind"
+  ],
+  "Longnaw": [
+    "rock",
+    "leaf"
+  ],
+  "Runecrow": [
+    "rock",
+    "wind"
+  ],
+  "Trollbit": [
+    "rock",
+    "leaf"
+  ],
+  "Longlug": [
+    "rock",
+    "leaf"
+  ],
+  "Aeraqueen": [
+    "water"
+  ],
+  "Gnatinum": [
+    "rock"
+  ],
+  "Starcrane": [
+    "fire",
+    "rock"
+  ],
+  "Thordur": [
+    "rock"
+  ],
+  "Haredroid": [
+    "water",
+    "rock"
+  ],
+  "Candyprancer": [
+    "rock",
+    "leaf"
+  ],
+  "Rootwolf": [
+    "rock",
+    "leaf"
+  ],
+  "Reshekandr": [
+    "fire",
+    "rock"
+  ],
+  "PremiumPred": [
+    "rock"
+  ],
+  "Havochawk": [
+    "wind"
+  ],
+  "Rabbiteer": [
+    "water",
+    "rock"
+  ],
+  "Predinum": [
+    "rock"
+  ],
+  "Reshek": [
+    "fire",
+    "rock"
+  ],
+  "Bipolargeist": [
+    "rock"
+  ],
+  "MagnumHoppus": [
+    "rock"
+  ],
+  "Mechabunny": [
+    "water",
+    "rock"
+  ],
+  "Bordor": [
+    "rock"
+  ],
+  "Aetherpriest": [
+    "rock",
+    "wind"
+  ],
+  "Skullscythe": [
+    "rock",
+    "wind"
+  ],
+  "Baldor": [
+    "rock"
+  ],
+  "Moldergeist": [
+    "rock"
+  ],
+  "Suncrane": [
+    "fire",
+    "rock"
+  ],
+  "Voidhierophant": [
+    "rock",
+    "wind"
+  ],
+  "Woodmare": [
+    "wind",
+    "leaf"
+  ],
+  "Grovemare": [
+    "wind",
+    "leaf"
+  ],
+  "Candydancer": [
+    "rock",
+    "leaf"
+  ],
+  "Reshekaris": [
+    "fire",
+    "rock"
+  ],
+  "Rejecteddy": [
+    "wind"
+  ],
+  "Frightgeist": [
+    "rock"
+  ],
+  "Savagehawk": [
+    "wind"
+  ],
+  "Tempestbunny": [
+    "water",
+    "wind"
+  ],
+  "Novacrane": [
+    "fire",
+    "rock"
+  ],
+  "Hedgemare": [
+    "wind",
+    "leaf"
+  ],
+  "Rockhopper": [
+    "rock"
+  ],
+  "Monstronaut": [
+    "wind"
+  ],
+  "Sarcomagus": [
+    "wind"
+  ],
+  "Ravagehawk": [
+    "wind"
+  ],
+  "Infernogre": [
+    "fire",
+    "wind"
+  ],
+  "Stormbunny": [
+    "water",
+    "wind"
+  ],
+  "Novaclaw": [
+    "fire",
+    "wind"
+  ],
+  "Candyhoof": [
+    "rock",
+    "leaf"
+  ],
+  "Zircon": [
+    "rock",
+    "wind"
+  ],
+  "Flameogre": [
+    "fire",
+    "wind"
+  ],
+  "Hoppelisk": [
+    "rock"
+  ],
+  "Hellogre": [
+    "fire",
+    "wind"
+  ],
+  "Pixster": [
+    "wind"
+  ],
+  "Dejecteddy": [
+    "wind"
+  ],
+  "Paragon": [
+    "rock",
+    "wind"
+  ],
+  "Melony": [
+    "wind",
+    "leaf"
+  ],
+  "Starclaw": [
+    "fire",
+    "wind"
+  ],
+  "Sunclaw": [
+    "fire",
+    "wind"
+  ],
+  "Distressteddy": [
+    "wind"
+  ],
+  "Sarcorpion": [
+    "wind"
+  ],
+  "Sarcopharoah": [
+    "wind"
+  ],
+  "Steelisteed": [
+    "wind"
+  ],
+  "Toucva": [
+    "fire",
+    "water"
+  ],
+  "Leechy": [
+    "fire",
+    "rock"
+  ],
+  "Fructoid": [
+    "wind",
+    "leaf"
+  ],
+  "PixsterPerfect": [
+    "wind"
+  ],
+  "Mortaurmax": [
+    "fire",
+    "rock"
+  ],
+  "Prettypixster": [
+    "wind"
+  ],
+  "Knightstallion": [
+    "wind"
+  ],
+  "Niaofan": [
+    "fire"
+  ],
+  "Drakelich": [
+    "fire",
+    "rock"
+  ],
+  "Megasicarius": [
+    "fire"
+  ],
+  "Rainbunny": [
+    "water",
+    "wind"
+  ],
+  "Sicarius": [
+    "fire"
+  ],
+  "Vuurswaard": [
+    "fire",
+    "wind"
+  ],
+  "Monstularity": [
+    "wind"
+  ],
+  "Lagarteecho": [
+    "fire",
+    "leaf"
+  ],
+  "Mortuo": [
+    "fire",
+    "rock"
+  ],
+  "Vuurdolk": [
+    "fire",
+    "wind"
+  ],
+  "Toucma": [
+    "fire",
+    "water"
+  ],
+  "Flareprawn": [
+    "fire",
+    "wind"
+  ],
+  "Blazeprawn": [
+    "fire",
+    "wind"
+  ],
+  "Mortuar": [
+    "fire",
+    "rock"
+  ],
+  "Monstellation": [
+    "wind"
+  ],
+  "Leechera": [
+    "fire",
+    "rock"
+  ],
+  "Shamane": [
+    "rock",
+    "wind"
+  ],
+  "Swaardkop": [
+    "fire",
+    "wind"
+  ],
+  "Niaofancy": [
+    "fire"
+  ],
+  "Flightstallion": [
+    "wind"
+  ],
+  "Salamano": [
+    "fire",
+    "leaf"
+  ],
+  "Niaofeng": [
+    "fire"
+  ],
+  "Plume": [
+    "fire",
+    "wind"
+  ],
+  "Redcaper": [
+    "fire"
+  ],
+  "Juicifier": [
+    "wind",
+    "leaf"
+  ],
+  "Supersicarius": [
+    "fire"
+  ],
+  "Salazard": [
+    "fire",
+    "leaf"
+  ],
+  "Trybrid": [
+    "fire"
+  ],
+  "Plumiada": [
+    "fire",
+    "wind"
+  ],
+  "Dreadcaper": [
+    "fire"
+  ],
+  "Tryfecta": [
+    "fire"
+  ],
+  "Polarogre": [
+    "fire",
+    "water"
+  ],
+  "Infernoprawn": [
+    "fire",
+    "wind"
+  ],
+  "Polartitan": [
+    "fire",
+    "water"
+  ],
+  "Trymera": [
+    "fire"
+  ],
+  "Papercaper": [
+    "fire"
+  ],
+  "Polargiant": [
+    "fire",
+    "water"
+  ],
+  "Plumia": [
+    "fire",
+    "wind"
+  ],
+  "Nightmutant": [
+    "leaf"
+  ],
+  "Flamecalf": [
+    "fire"
+  ],
+  "Slowentist": [
+    "leaf"
+  ],
+  "Charcoil": [
+    "fire"
+  ],
+  "Clawman": [
+    "leaf"
+  ],
+  "Nightsprite": [
+    "fire"
+  ],
+  "Czarbroil": [
+    "fire"
+  ],
+  "Toucruption": [
+    "fire",
+    "water"
+  ],
+  "Lionvain": [
+    "fire"
+  ],
+  "Moorbeast": [
+    "wind",
+    "leaf"
+  ],
+  "Sloedinger": [
+    "leaf"
+  ],
+  "Pyrelizard": [
+    "fire",
+    "leaf"
+  ],
+  "Tinderlizard": [
+    "fire",
+    "leaf"
+  ],
+  "Supermutant": [
+    "leaf"
+  ],
+  "Lionbling": [
+    "fire"
+  ],
+  "Fieldbeast": [
+    "wind",
+    "leaf"
+  ],
+  "Frightmutant": [
+    "leaf"
+  ],
+  "Lionchaching": [
+    "fire"
+  ],
+  "Patchbeast": [
+    "wind",
+    "leaf"
+  ],
+  "Nightfright": [
+    "fire"
+  ],
+  "MissyToe": [
+    "leaf"
+  ],
+  "Flamebull": [
+    "fire"
+  ],
+  "Charroyal": [
+    "fire"
+  ],
+  "HarrahBash": [
+    "rock",
+    "leaf"
+  ],
+  "Meteowolf": [
+    "wind",
+    "leaf"
+  ],
+  "Frankensloth": [
+    "leaf"
+  ],
+  "Nightblight": [
+    "fire"
+  ],
+  "Flammabrahma": [
+    "fire"
+  ],
+  "Grizzard": [
+    "water",
+    "leaf"
+  ],
+  "Nimbusclaw": [
+    "wind",
+    "leaf"
+  ],
+  "MistressPine": [
+    "leaf"
+  ],
+  "Claugur": [
+    "leaf"
+  ],
+  "Fentacle": [
+    "rock",
+    "leaf"
+  ],
+  "Grizzardios": [
+    "water",
+    "leaf"
+  ],
+  "Hunchbird": [
+    "fire",
+    "leaf"
+  ],
+  "Worldwolf": [
+    "wind",
+    "leaf"
+  ],
+  "Madame Wreath": [
+    "leaf"
+  ],
+  "Bogtacle": [
+    "rock",
+    "leaf"
+  ],
+  "Swamptacle": [
+    "rock",
+    "leaf"
+  ],
+  "Treebaby": [
+    "wind",
+    "leaf"
+  ],
+  "Grizzardius": [
+    "water",
+    "leaf"
+  ],
+  "Lemurdur": [
+    "rock",
+    "leaf"
+  ],
+  "Nimbusfang": [
+    "wind",
+    "leaf"
+  ],
+  "Lamur": [
+    "rock",
+    "leaf"
+  ],
+  "Nimbusteng": [
+    "wind",
+    "leaf"
+  ],
+  "Pumphunch": [
+    "fire",
+    "leaf"
+  ],
+  "Birbiscus": [
+    "wind",
+    "leaf"
+  ],
+  "Lokingpin": [
+    "leaf"
+  ],
+  "Echoira": [
+    "water",
+    "leaf"
+  ],
+  "Scorchlizard": [
+    "fire",
+    "leaf"
+  ],
+  "HexBash": [
+    "rock",
+    "leaf"
+  ],
+  "Malvawing": [
+    "wind",
+    "leaf"
+  ],
+  "Forestbaby": [
+    "wind",
+    "leaf"
+  ],
+  "Herbino": [
+    "rock",
+    "leaf"
+  ],
+  "Delicario": [
+    "rock",
+    "leaf"
+  ],
+  "Petiti": [
+    "rock",
+    "leaf"
+  ],
+  "Opulavor": [
+    "rock",
+    "leaf"
+  ],
+  "Jabberwrath": [
+    "leaf"
+  ],
+  "Lokid": [
+    "leaf"
+  ],
+  "Moonwolf": [
+    "wind",
+    "leaf"
+  ],
+  "Tigerbyte": [
+    "leaf"
+  ],
+  "Floratit": [
+    "wind",
+    "leaf"
+  ],
+  "Hunchima": [
+    "fire",
+    "leaf"
+  ],
+  "Bushbaby": [
+    "wind",
+    "leaf"
+  ],
+  "Jabbersnark": [
+    "leaf"
+  ],
+  "Mangletiger": [
+    "leaf"
+  ],
+  "Bandersnark": [
+    "leaf"
+  ],
+  "Syrina": [
+    "water",
+    "leaf"
+  ],
+  "Smitetiger": [
+    "leaf"
+  ],
+  "Lemurmur": [
+    "rock",
+    "leaf"
+  ],
+  "Loking": [
+    "leaf"
+  ],
+  "Lichenlycan": [
+    "leaf"
+  ],
+  "Clawdemon": [
+    "leaf"
+  ],
+  "Slowgrowth": [
+    "leaf"
+  ],
+  "BuffBash": [
+    "rock",
+    "leaf"
+  ],
+  "Lichenthrope": [
+    "leaf"
+  ],
+  "Seaphyra": [
+    "water",
+    "leaf"
+  ],
+  "Lichenlupine": [
+    "leaf"
+  ],
+  "Sacredgrowth": [
+    "leaf"
+  ],
+  "Bambruiser": [
+    "leaf"
+  ],
+  "Herbinosaur": [
+    "rock",
+    "leaf"
+  ],
+  "Herbinosaurus": [
+    "rock",
+    "leaf"
+  ],
+  "Overgrowth": [
+    "leaf"
+  ],
+  "Gummydemon": [
+    "leaf"
+  ],
+  "Adorabear": [
+    "leaf"
+  ],
+  "Archangel": [
+    "water"
+  ],
+  "Gummydevil": [
+    "leaf"
+  ],
+  "Bambit": [
+    "leaf"
+  ],
+  "Ocunine": [
+    "water"
+  ],
+  "Ocuweiler": [
+    "water"
+  ],
+  "Bambunny": [
+    "leaf"
+  ],
+  "Abearmonation": [
+    "leaf"
+  ],
+  "Ocupup": [
+    "water"
+  ],
+  "Merdancer": [
+    "water"
+  ],
+  "Vambat": [
+    "fire",
+    "water"
+  ],
+  "Merprancer": [
+    "water"
+  ],
+  "Abearation": [
+    "leaf"
+  ],
+  "Tinkwar": [
+    "water",
+    "leaf"
+  ],
+  "Claydra": [
+    "water",
+    "rock"
+  ],
+  "Miredra": [
+    "water",
+    "rock"
+  ],
+  "Ejo": [
+    "water",
+    "leaf"
+  ],
+  "Hydrofox": [
+    "water",
+    "leaf"
+  ],
+  "Rubyrock": [
+    "fire",
+    "water"
+  ],
+  "Anthracite": [
+    "fire",
+    "water"
+  ],
+  "Gravedra": [
+    "water",
+    "rock"
+  ],
+  "Gloombat": [
+    "fire",
+    "water"
+  ],
+  "Hijau": [
+    "water",
+    "leaf"
+  ],
+  "Gummybunny": [
+    "leaf"
+  ],
+  "Marinefox": [
+    "water",
+    "leaf"
+  ],
+  "Mervixen": [
+    "water"
+  ],
+  "Crystide": [
+    "water",
+    "rock"
+  ],
+  "Stellarseal": [
+    "water",
+    "rock"
+  ],
+  "Hollowshroud": [
+    "water"
+  ],
+  "Snowpeep": [
+    "fire",
+    "water"
+  ],
+  "Tinkles": [
+    "water",
+    "leaf"
+  ],
+  "Tidalbot": [
+    "water"
+  ],
+  "Gunnybun": [
+    "water",
+    "wind"
+  ],
+  "Solstidragon": [
+    "water"
+  ],
+  "Springdragon": [
+    "water"
+  ],
+  "Splashbot": [
+    "water"
+  ],
+  "Gundozer": [
+    "water",
+    "wind"
+  ],
+  "Bonegrinder": [
+    "water",
+    "wind"
+  ],
+  "Iceangel": [
+    "water"
+  ],
+  "Gundoe": [
+    "water",
+    "wind"
+  ],
+  "Astroseal": [
+    "water",
+    "rock"
+  ],
+  "Deadhorse": [
+    "water"
+  ],
+  "Monarchangel": [
+    "water"
+  ],
+  "SlurryIgnite": [
+    "fire",
+    "water"
+  ],
+  "Dreadhorse": [
+    "water"
+  ],
+  "Thoroughdread": [
+    "water"
+  ],
+  "Bonespitter": [
+    "water",
+    "wind"
+  ],
+  "Bonesplasher": [
+    "water",
+    "wind"
+  ],
+  "Gillord": [
+    "water",
+    "leaf"
+  ],
+  "Tinklebells": [
+    "water",
+    "leaf"
+  ],
+  "Vanillalord": [
+    "water"
+  ],
+  "Pyrofinch": [
+    "fire",
+    "water"
+  ],
+  "Squallbot": [
+    "water"
+  ],
+  "Hallowedshroud": [
+    "water"
+  ],
+  "Heartripple": [
+    "water",
+    "leaf"
+  ],
+  "Vanillizard": [
+    "water"
+  ],
+  "Vanilladrake": [
+    "water"
+  ],
+  "Lovetyphoon": [
+    "water",
+    "leaf"
+  ],
+  "Babaghama": [
+    "water",
+    "leaf"
+  ],
+  "Drownzero": [
+    "water"
+  ],
+  "Gillknight": [
+    "water",
+    "leaf"
+  ],
+  "Cosmicseal": [
+    "water",
+    "rock"
+  ],
+  "Aurulisk": [
+    "water"
+  ],
+  "Dreamlich": [
+    "fire",
+    "water"
+  ],
+  "Dewdragon": [
+    "water"
+  ],
+  "Chillchirp": [
+    "fire",
+    "water"
+  ],
+  "Lordshroud": [
+    "water"
+  ],
+  "Auruhorror": [
+    "water"
+  ],
+  "Heartwave": [
+    "water",
+    "leaf"
+  ],
+  "Crowndrown": [
+    "water"
+  ],
+  "Ziricolt": [
+    "rock"
+  ],
+  "Navyjones": [
+    "water"
+  ],
+  "Doubleheader": [
+    "water"
+  ],
+  "Nauticfox": [
+    "water",
+    "leaf"
+  ],
+  "Scurvyjones": [
+    "water"
+  ],
+  "Wavyjones": [
+    "water"
+  ],
+  "Gillsquire": [
+    "water",
+    "leaf"
+  ],
+  "Doubledeader": [
+    "water"
+  ],
+  "Threel": [
+    "water"
+  ],
+  "Amephyst": [
+    "rock"
+  ],
+  "Aurahorn": [
+    "rock"
+  ],
+  "Drownpound": [
+    "water"
+  ],
+  "Moraythreel": [
+    "water"
+  ],
+  "Bluebeast": [
+    "water"
+  ],
+  "Blueboss": [
+    "water"
+  ],
+  "Bluebaron": [
+    "water"
+  ],
+  "Luminaryx": [
+    "water",
+    "rock"
+  ],
+  "Aurusaur": [
+    "water"
+  ],
+  "Aurabrute": [
+    "rock"
+  ],
+  "Doubleshredder": [
+    "water"
+  ],
+  "Wingskudd": [
+    "rock",
+    "wind"
+  ],
+  "Faunaflora": [
+    "rock",
+    "leaf"
+  ],
+  "StingingThreel": [
+    "water"
+  ],
+  "Mightymutt": [
+    "rock",
+    "leaf"
+  ],
+  "Magmahorn": [
+    "fire",
+    "rock"
+  ],
+  "Rootbeast": [
+    "rock",
+    "leaf"
+  ],
+  "Seedbeast": [
+    "rock",
+    "leaf"
+  ],
+  "Soccerbrawl": [
+    "water"
+  ],
+  "Quartskudd": [
+    "rock",
+    "wind"
+  ],
+  "Lavahorn": [
+    "fire",
+    "rock"
+  ],
+  "Lagoonjar": [
+    "water",
+    "rock"
+  ],
+  "Timberbeast": [
+    "rock",
+    "leaf"
+  ],
+  "Mumtot": [
+    "rock",
+    "wind"
+  ],
+  "Fidoflora": [
+    "rock",
+    "leaf"
+  ],
+  "Crystalimb": [
+    "rock"
+  ],
+  "Loverock": [
+    "rock",
+    "leaf"
+  ],
+  "Heartrock": [
+    "rock",
+    "leaf"
+  ],
+  "Lodeskudd": [
+    "rock",
+    "wind"
+  ],
+  "Soccermaul": [
+    "water"
+  ],
+  "Soccertroll": [
+    "water"
+  ],
+  "Megataur": [
+    "rock"
+  ],
+  "Hushtot": [
+    "rock",
+    "wind"
+  ],
+  "Aurabull": [
+    "rock"
+  ],
+  "Tigrate": [
+    "rock"
+  ],
+  "Candypine": [
+    "fire",
+    "rock"
+  ],
+  "Grimbat": [
+    "rock"
+  ],
+  "Eevester": [
+    "water",
+    "rock"
+  ],
+  "Heridot": [
+    "rock"
+  ],
+  "Protot": [
+    "rock",
+    "wind"
+  ],
+  "Grimwing": [
+    "rock"
+  ],
+  "Tidaljar": [
+    "water",
+    "rock"
+  ],
+  "Minortaur": [
+    "rock"
+  ],
+  "Azunicorn": [
+    "rock"
+  ],
+  "Indihorn": [
+    "rock"
+  ],
+  "Thundernaut": [
+    "wind"
+  ],
+  "Marshjar": [
+    "water",
+    "rock"
+  ],
+  "Adorock": [
+    "rock",
+    "leaf"
+  ],
+  "Lobbystar": [
+    "water",
+    "rock"
+  ],
+  "Grimpire": [
+    "rock"
+  ],
+  "Spryxa": [
+    "rock",
+    "wind"
+  ],
+  "Mondotaur": [
+    "rock"
+  ],
+  "Infernox": [
+    "wind"
+  ],
+  "Thunderling": [
+    "wind"
+  ],
+  "Cosmolisher": [
+    "rock"
+  ],
+  "Thundereagle": [
+    "wind"
+  ],
+  "Rootwitch": [
+    "rock",
+    "wind"
+  ],
+  "Anubyss": [
+    "rock"
+  ],
+  "Igneohorn": [
+    "fire",
+    "rock"
+  ],
+  "Candyback": [
+    "fire",
+    "rock"
+  ],
+  "Tigrogue": [
+    "rock"
+  ],
+  "Woodwooly": [
+    "wind",
+    "leaf"
+  ],
+  "Cosmocalypse": [
+    "rock"
+  ],
+  "Tigraider": [
+    "rock"
+  ],
+  "Thornmother": [
+    "rock",
+    "wind"
+  ],
+  "Grovewooly": [
+    "wind",
+    "leaf"
+  ],
+  "Cosmobot": [
+    "rock"
+  ],
+  "Anubeast": [
+    "rock"
+  ],
+  "Lobbey": [
+    "water",
+    "rock"
+  ],
+  "Anubyssmal": [
+    "rock"
+  ],
+  "Taurusear": [
+    "wind"
+  ],
+  "Candyquill": [
+    "fire",
+    "rock"
+  ],
+  "Tauroak": [
+    "wind",
+    "leaf"
+  ],
+  "Calflare": [
+    "wind"
+  ],
+  "Sunbot": [
+    "fire",
+    "wind"
+  ],
+  "Impstache": [
+    "rock",
+    "wind"
+  ],
+  "Sunbear": [
+    "fire",
+    "wind"
+  ],
+  "Taurrex": [
+    "wind",
+    "leaf"
+  ],
+  "Hedgewooly": [
+    "wind",
+    "leaf"
+  ],
+  "Starbear": [
+    "fire",
+    "wind"
+  ],
+  "Taurest": [
+    "wind",
+    "leaf"
+  ],
+  "Novabot": [
+    "fire",
+    "wind"
+  ],
+  "Yaga": [
+    "wind",
+    "leaf"
+  ],
+  "Cottonmob": [
+    "wind"
+  ],
+  "Imphawk": [
+    "rock",
+    "wind"
+  ],
+  "Impscab": [
+    "rock",
+    "wind"
+  ],
+  "Leopyre": [
+    "fire"
+  ],
+  "Ectohowl": [
+    "fire"
+  ],
+  "Leoflare": [
+    "fire"
+  ],
+  "Midgoldserpent": [
+    "wind"
+  ],
+  "Pumpkinspite": [
+    "fire"
+  ],
+  "Metallikorn": [
+    "wind"
+  ],
+  "Schmancyflight": [
+    "wind"
+  ],
+  "Aetherion": [
+    "water",
+    "wind"
+  ],
+  "HardMetallikorn": [
+    "wind"
+  ],
+  "Abysson": [
+    "wind"
+  ],
+  "Enginferno": [
+    "fire"
+  ],
+  "Airbear": [
+    "wind"
+  ],
+  "Aetherwing": [
+    "water",
+    "wind"
+  ],
+  "Cottonbrawl": [
+    "wind"
+  ],
+  "Unikorn": [
+    "wind"
+  ],
+  "Ectoprowl": [
+    "fire"
+  ],
+  "Templairbear": [
+    "wind"
+  ],
+  "Boildrake": [
+    "fire",
+    "water"
+  ],
+  "Midaserpent": [
+    "wind"
+  ],
+  "Fancyflight": [
+    "wind"
+  ],
+  "Novabear": [
+    "fire",
+    "wind"
+  ],
+  "Megaserpent": [
+    "wind"
+  ],
+  "Gravon": [
+    "wind"
+  ],
+  "Youngyaga": [
+    "wind",
+    "leaf"
+  ],
+  "Classyflight": [
+    "wind"
+  ],
+  "Aetherfly": [
+    "water",
+    "wind"
+  ],
+  "Enginflagration": [
+    "fire"
+  ],
+  "Ignifernal": [
+    "fire",
+    "wind"
+  ],
+  "Gargriffon": [
+    "wind"
+  ],
+  "Ghoulsayer": [
+    "fire"
+  ],
+  "Tajmunchal": [
+    "fire"
+  ],
+  "Pumpkinfright": [
+    "fire"
+  ],
+  "Enginerator": [
+    "fire"
+  ],
+  "Leoblaze": [
+    "fire"
+  ],
+  "Crusairbear": [
+    "wind"
+  ],
+  "Ectogrowl": [
+    "fire"
+  ],
+  "Munchmansion": [
+    "fire"
+  ],
+  "Steamdrake": [
+    "fire",
+    "water"
+  ],
+  "Vapedrake": [
+    "fire",
+    "water"
+  ],
+  "Cottonmaul": [
+    "wind"
+  ],
+  "Neoleo": [
+    "fire"
+  ],
+  "Igi": [
+    "fire",
+    "wind"
+  ],
+  "Clubthumper": [
+    "leaf"
+  ],
+  "Iguheiser": [
+    "fire",
+    "wind"
+  ],
+  "Pumpkinmight": [
+    "fire"
+  ],
+  "Munchmaison": [
+    "fire"
+  ],
+  "Taomane": [
+    "fire"
+  ],
+  "Vulprima": [
+    "leaf"
+  ],
+  "Starbot": [
+    "fire",
+    "wind"
+  ],
+  "KingTao": [
+    "fire"
+  ],
+  "Babayaga": [
+    "wind",
+    "leaf"
+  ],
+  "Taofighter": [
+    "fire"
+  ],
+  "Moosesayer": [
+    "fire"
+  ],
+  "Noirchief": [
+    "fire"
+  ],
+  "Neonphenom": [
+    "fire"
+  ],
+  "Sundragon": [
+    "leaf"
+  ],
+  "Gloomsayer": [
+    "fire"
+  ],
+  "Thistlecrow": [
+    "leaf"
+  ],
+  "Mistlecrow": [
+    "leaf"
+  ],
+  "Neonlion": [
+    "fire"
+  ],
+  "Trunkthumper": [
+    "leaf"
+  ],
+  "Thumpthrasher": [
+    "leaf"
+  ],
+  "Noirrior": [
+    "fire"
+  ],
+  "Greenfly": [
+    "leaf"
+  ],
+  "Corsoundrel": [
+    "leaf"
+  ],
+  "Corsairus": [
+    "leaf"
+  ],
+  "Sunkaiser": [
+    "leaf"
+  ],
+  "RobotySnatcher": [
+    "leaf"
+  ],
+  "Vulpesta": [
+    "leaf"
+  ],
+  "Greeliath": [
+    "leaf"
+  ],
+  "MasterSnatcher": [
+    "leaf"
+  ],
+  "Sundove": [
+    "leaf"
+  ],
+  "Blazefox": [
+    "fire",
+    "leaf"
+  ],
+  "Festiwing": [
+    "wind",
+    "leaf"
+  ],
+  "BlasterSnatcher": [
+    "leaf"
+  ],
+  "Festhorn": [
+    "wind",
+    "leaf"
+  ],
+  "Noirlord": [
+    "fire"
+  ],
+  "Bristlecrow": [
+    "leaf"
+  ],
+  "Chirpera": [
+    "leaf"
+  ],
+  "Jazzyshake": [
+    "rock",
+    "leaf"
+  ],
+  "Auraborealicat": [
+    "water"
+  ],
+  "Jazzyjudder": [
+    "rock",
+    "leaf"
+  ],
+  "Vulpinda": [
+    "leaf"
+  ],
+  "Jazzyquake": [
+    "rock",
+    "leaf"
+  ],
+  "Aristoadcracy": [
+    "leaf"
+  ],
+  "Infernofox": [
+    "fire",
+    "leaf"
+  ],
+  "Romouse": [
+    "leaf"
+  ],
+  "Maskmaster": [
+    "leaf"
+  ],
+  "Greenguy": [
+    "leaf"
+  ],
+  "Powermouse": [
+    "leaf"
+  ],
+  "Azuspark": [
+    "water"
+  ],
+  "Borealicat": [
+    "water"
+  ],
+  "Auraborealion": [
+    "water"
+  ],
+  "Cerullord": [
+    "water"
+  ],
+  "Maskrabbit": [
+    "leaf"
+  ],
+  "Flarefox": [
+    "fire",
+    "leaf"
+  ],
+  "Flightymouse": [
+    "leaf"
+  ],
+  "Aquyvern": [
+    "water"
+  ],
+  "Frostpounce": [
+    "water",
+    "rock"
+  ],
+  "Corsairlord": [
+    "leaf"
+  ],
+  "Aquoyle": [
+    "water"
+  ],
+  "Indiblaze": [
+    "water"
+  ],
+  "Chimpera": [
+    "leaf"
+  ],
+  "Chimerilla": [
+    "leaf"
+  ],
+  "Bunboo": [
+    "water"
+  ],
+  "Hydrogon": [
+    "water"
+  ],
+  "Maskerville": [
+    "leaf"
+  ],
+  "Azurathustra": [
+    "water"
+  ],
+  "Heru-Urn": [
+    "water"
+  ],
+  "Bunshee": [
+    "water"
+  ],
+  "Royaltoad": [
+    "leaf"
+  ],
+  "Bunbuzzer": [
+    "water",
+    "wind"
+  ],
+  "Nobletoad": [
+    "leaf"
+  ],
+  "Bumblebunny": [
+    "water",
+    "wind"
+  ],
+  "Festifin": [
+    "wind",
+    "leaf"
+  ],
+  "Urskimo": [
+    "water"
+  ],
+  "Hydroppy": [
+    "water"
+  ],
+  "Riptalon": [
+    "water",
+    "rock"
+  ],
+  "Elfkimo": [
+    "water"
+  ],
+  "Glittercannon": [
+    "water"
+  ],
+  "Hydrogenie": [
+    "water"
+  ],
+  "Heru-Growl": [
+    "water"
+  ],
+  "Glitterblaster": [
+    "water"
+  ],
+  "Easterbunboo": [
+    "water"
+  ],
+  "ShrillBunshee": [
+    "water"
+  ],
+  "BouncingBunshee": [
+    "water"
+  ],
+  "Lavape": [
+    "fire",
+    "rock"
+  ],
+  "Bunbee": [
+    "water",
+    "wind"
+  ],
+  "Heru-Grrr": [
+    "water"
+  ],
+  "Infinifox": [
+    "rock"
+  ],
+  "Fenroar": [
+    "rock"
+  ],
+  "Ascensor": [
+    "rock"
+  ],
+  "Glowdent": [
+    "rock"
+  ],
+  "Glittergunner": [
+    "water"
+  ],
+  "Fenrage": [
+    "rock"
+  ],
+  "Apecrystal": [
+    "fire",
+    "rock"
+  ],
+  "Fenroc": [
+    "rock"
+  ],
+  "Realgari": [
+    "fire",
+    "rock"
+  ],
+  "Shoalcrawler": [
+    "water",
+    "rock"
+  ],
+  "Reefcrawler": [
+    "water",
+    "rock"
+  ],
+  "Beachcrawler": [
+    "water",
+    "rock"
+  ],
+  "Moshmarrow": [
+    "rock"
+  ],
+  "Violetdefender": [
+    "rock"
+  ],
+  "Violetprime": [
+    "rock"
+  ],
+  "Yokataron": [
+    "wind"
+  ],
+  "Easterbunshee": [
+    "water"
+  ],
+  "Heartsteeler": [
+    "rock"
+  ],
+  "Violettyke": [
+    "rock"
+  ],
+  "Moshpharoah": [
+    "rock"
+  ],
+  "Brrrskimo": [
+    "water"
+  ],
+  "Yokatamom": [
+    "wind"
+  ],
+  "Demigeode": [
+    "rock"
+  ],
+  "Thrashmarrow": [
+    "rock"
+  ],
+  "Ambaslither": [
+    "wind"
+  ],
+  "Geodemo": [
+    "rock"
+  ],
+  "Heartattacker": [
+    "rock"
+  ],
+  "Seabra": [
+    "wind"
+  ],
+  "Risenstripe": [
+    "wind"
+  ],
+  "Punchvirtue": [
+    "fire",
+    "wind"
+  ],
+  "Heartbreaker": [
+    "rock"
+  ],
+  "Tangelic": [
+    "fire",
+    "wind"
+  ],
+  "Fanfeather": [
+    "wind"
+  ],
+  "Maelstroma": [
+    "rock",
+    "wind"
+  ],
+  "Roxsteady": [
+    "wind"
+  ],
+  "Yokatabom": [
+    "wind"
+  ],
+  "Wingfan": [
+    "wind"
+  ],
+  "Pandemasus": [
+    "wind"
+  ],
+  "Mildfire": [
+    "fire"
+  ],
+  "Rox": [
+    "wind"
+  ],
+  "Whirleen": [
+    "rock",
+    "wind"
+  ],
+  "Wingadingding": [
+    "wind"
+  ],
+  "Goldimander": [
+    "wind"
+  ],
+  "Mortex": [
+    "rock",
+    "wind"
+  ],
+  "Dreadseabra": [
+    "wind"
+  ],
+  "Deepseabra": [
+    "wind"
+  ],
+  "Vermilidoom": [
+    "fire",
+    "wind"
+  ],
+  "Goldendrake": [
+    "wind"
+  ],
+  "Deogeo": [
+    "rock"
+  ],
+  "Windstripe": [
+    "wind"
+  ],
+  "Poxasus": [
+    "wind"
+  ],
+  "Cybug": [
+    "wind"
+  ],
+  "Cybrawl": [
+    "wind"
+  ],
+  "Goldensage": [
+    "wind"
+  ],
+  "Terrursa": [
+    "wind"
+  ],
+  "Scarebear": [
+    "wind"
+  ],
+  "Empirattle": [
+    "wind"
+  ],
+  "Cyberus": [
+    "wind"
+  ],
+  "Vermilindome": [
+    "fire",
+    "wind"
+  ],
+  "Ksenoga": [
+    "fire",
+    "wind"
+  ],
+  "Wildfire": [
+    "fire"
+  ],
+  "HawkRox": [
+    "wind"
+  ],
+  "Pyreopteryx": [
+    "fire"
+  ],
+  "Thumpangel": [
+    "fire",
+    "wind"
+  ],
+  "Pyredactyl": [
+    "fire"
+  ],
+  "Minogito": [
+    "fire",
+    "wind"
+  ],
+  "Vermilingua": [
+    "fire",
+    "wind"
+  ],
+  "Webula": [
+    "fire"
+  ],
+  "Fluffernox": [
+    "rock",
+    "leaf"
+  ],
+  "Carnavore": [
+    "fire",
+    "wind"
+  ],
+  "Goldenking": [
+    "wind"
+  ],
+  "Feralfire": [
+    "fire"
+  ],
+  "Blightfire": [
+    "fire"
+  ],
+  "Plagasus": [
+    "wind"
+  ],
+  "Freakybeaky": [
+    "fire"
+  ],
+  "ViralWebula": [
+    "fire"
+  ],
+  "Freakytalon": [
+    "fire"
+  ],
+  "Wrathclaw": [
+    "leaf"
+  ],
+  "Gizmofling": [
+    "rock",
+    "leaf"
+  ],
+  "Knightstripe": [
+    "wind"
+  ],
+  "Smitefire": [
+    "fire"
+  ],
+  "Wrathfire": [
+    "fire"
+  ],
+  "Wraithclaw": [
+    "leaf"
+  ],
+  "Calion": [
+    "fire"
+  ],
+  "Gizmoswing": [
+    "rock",
+    "leaf"
+  ],
+  "WoollyWraith": [
+    "rock",
+    "leaf"
+  ],
+  "Spoocub": [
+    "wind"
+  ],
+  "Fenine": [
+    "fire"
+  ],
+  "Kappakid": [
+    "leaf"
+  ],
+  "OmegaWebula": [
+    "fire"
+  ],
+  "BillygoatFluff": [
+    "fire"
+  ],
+  "FrillygoatFluff": [
+    "fire"
+  ],
+  "Lagodor": [
+    "leaf"
+  ],
+  "Kappachameleon": [
+    "leaf"
+  ],
+  "Brerefreyr": [
+    "leaf"
+  ],
+  "Mightfreyr": [
+    "leaf"
+  ],
+  "Shellterpelter": [
+    "leaf"
+  ],
+  "Bearbud": [
+    "leaf"
+  ],
+  "BillygoatKid": [
+    "fire"
+  ],
+  "Lagolibre": [
+    "leaf"
+  ],
+  "Shellter": [
+    "leaf"
+  ],
+  "Flowerstump": [
+    "rock",
+    "leaf"
+  ],
+  "Kappacolossus": [
+    "leaf"
+  ],
+  "Muchalibre": [
+    "leaf"
+  ],
+  "Ruedragoon": [
+    "water"
+  ],
+  "Bearbloom": [
+    "leaf"
+  ],
+  "Metallop": [
+    "water",
+    "wind"
+  ],
+  "Gizmosling": [
+    "rock",
+    "leaf"
+  ],
+  "Sugarcrush": [
+    "water"
+  ],
+  "Chillerpillar": [
+    "water"
+  ],
+  "Treasurex": [
+    "water"
+  ],
+  "Knightfreyr": [
+    "leaf"
+  ],
+  "Chillerfly": [
+    "water"
+  ],
+  "Treasaur": [
+    "water"
+  ],
+  "Sleighwolf": [
+    "water"
+  ],
+  "Cyborsnake": [
+    "rock"
+  ],
+  "Bluedragoon": [
+    "water"
+  ],
+  "Bumpypuppy": [
+    "rock"
+  ],
+  "Ironhop": [
+    "water",
+    "wind"
+  ],
+  "Harebot": [
+    "water",
+    "wind"
+  ],
+  "Sugarthrash": [
+    "water"
+  ],
+  "Sleighdog": [
+    "water"
+  ],
+  "Nimbunny": [
+    "rock"
+  ],
+  "Doomdragoon": [
+    "water"
+  ],
+  "Famtasm": [
+    "rock"
+  ],
+  "Cyborconda": [
+    "rock"
+  ],
+  "Hardburner": [
+    "rock"
+  ],
+  "Boprock": [
+    "rock"
+  ],
+  "Icepatch": [
+    "water"
+  ],
+  "Soprabretto": [
+    "wind"
+  ],
+  "Famisher": [
+    "rock"
+  ],
+  "Cyborworm": [
+    "rock"
+  ],
+  "Sugarcrumb": [
+    "water"
+  ],
+  "Gorepling": [
+    "rock"
+  ],
+  "Sleighhound": [
+    "water"
+  ],
+  "Gorepion": [
+    "rock"
+  ],
+  "Chairibou": [
+    "wind"
+  ],
+  "Soprapera": [
+    "wind"
+  ],
+  "Hoprock": [
+    "rock"
+  ],
+  "Stratosloth": [
+    "rock"
+  ],
+  "Icehook": [
+    "water"
+  ],
+  "Rock a' Deer": [
+    "wind"
+  ],
+  "Phosphoroller": [
+    "rock"
+  ],
+  "Chillerguy": [
+    "water"
+  ],
+  "Fuzzbunny": [
+    "wind"
+  ],
+  "Fampire": [
+    "rock"
+  ],
+  "Sopramiedo": [
+    "wind"
+  ],
+  "Hardblaster": [
+    "rock"
+  ],
+  "Bumpybarky": [
+    "rock"
+  ],
+  "Fuzzbat": [
+    "wind"
+  ],
+  "Legionhare": [
+    "wind"
+  ],
+  "CanopicCzar": [
+    "wind"
+  ],
+  "Cuddlepotamus": [
+    "wind"
+  ],
+  "Feudoo": [
+    "fire"
+  ],
+  "Hoplite": [
+    "wind"
+  ],
+  "Snarfaroo": [
+    "wind"
+  ],
+  "Sweets": [
+    "fire"
+  ],
+  "Imhotop": [
+    "fire"
+  ],
+  "Phosphorocker": [
+    "rock"
+  ],
+  "Phosphorumbler": [
+    "rock"
+  ],
+  "Poprock": [
+    "rock"
+  ],
+  "SupremeClampion": [
+    "wind"
+  ],
+  "GrandClampion": [
+    "wind"
+  ],
+  "Huggopotamus": [
+    "wind"
+  ],
+  "CanopicGorgon": [
+    "wind"
+  ],
+  "Snugglepotamus": [
+    "wind"
+  ],
+  "Snarfox": [
+    "wind"
+  ],
+  "Imhopot": [
+    "fire"
+  ],
+  "Valenswine": [
+    "leaf"
+  ],
+  "Bunccaneer": [
+    "leaf"
+  ],
+  "Rumblehorse": [
+    "fire"
+  ],
+  "Topcat": [
+    "fire"
+  ],
+  "Super Treat": [
+    "wind"
+  ],
+  "Clampion": [
+    "wind"
+  ],
+  "Fuzzbrute": [
+    "wind"
+  ],
+  "Kittenabox": [
+    "fire"
+  ],
+  "Epic Treat": [
+    "fire"
+  ],
+  "Rare Treat": [
+    "rock"
+  ],
+  "Toadler": [
+    "fire"
+  ],
+  "Ultra Treat": [
+    "leaf"
+  ],
+  "Berrytail": [
+    "fire"
+  ],
+  "Warhorse": [
+    "fire"
+  ],
+  "Paraglider": [
+    "leaf"
+  ],
+  "Parasoul": [
+    "leaf"
+  ],
+  "Grumpetal": [
+    "leaf"
+  ],
+  "Heartbeast": [
+    "fire"
+  ],
+  "Toughpastry": [
+    "water"
+  ],
+  "Bitesize": [
+    "water"
+  ],
+  "Machohare": [
+    "leaf"
+  ],
+  "Funccaneer": [
+    "leaf"
+  ],
+  "Woetunn": [
+    "water"
+  ],
+  "CanopicStar": [
+    "wind"
+  ],
+  "Flotunn": [
+    "water"
+  ],
+  "SaintValenswine": [
+    "leaf"
+  ],
+  "Toadster": [
+    "fire"
+  ],
+  "Feudoom": [
+    "fire"
+  ],
+  "Hatchhare": [
+    "leaf"
+  ],
+  "Snoel": [
+    "water"
+  ],
+  "Cutesytail": [
+    "fire"
+  ],
+  "MrBite": [
+    "water"
+  ],
+  "Rabbot": [
+    "water"
+  ],
+  "Rhinomunch": [
+    "water"
+  ],
+  "Feastheart": [
+    "fire"
+  ],
+  "Seamonkey": [
+    "water"
+  ],
+  "Globenretriever": [
+    "water"
+  ],
+  "KingChicken": [
+    "wind"
+  ],
+  "Chinchillite": [
+    "rock"
+  ],
+  "Seaghoul": [
+    "rock"
+  ],
+  "Icekite": [
+    "water"
+  ],
+  "Jadespike": [
+    "rock"
+  ],
+  "Icesprite": [
+    "water"
+  ],
+  "Rhinocrunch": [
+    "water"
+  ],
+  "Snapsnout": [
+    "rock"
+  ],
+  "Wailingwisp": [
+    "wind"
+  ],
+  "Seafiend": [
+    "rock"
+  ],
+  "Snoelraiser": [
+    "water"
+  ],
+  "Jadestrike": [
+    "rock"
+  ],
+  "Grumploom": [
+    "leaf"
+  ],
+  "Snapsnarl": [
+    "rock"
+  ],
+  "Wendigoburner": [
+    "fire"
+  ],
+  "Buffpastry": [
+    "water"
+  ],
+  "Glitzglobe": [
+    "water"
+  ],
+  "Jackrabbot": [
+    "water"
+  ],
+  "Bashalt": [
+    "rock"
+  ],
+  "Voodoobeast": [
+    "fire"
+  ],
+  "Obsidiadz": [
+    "rock"
+  ],
+  "Chalceconey": [
+    "rock"
+  ],
+  "TinnyTim": [
+    "rock"
+  ],
+  "Fungosaur": [
+    "leaf"
+  ],
+  "Titimium": [
+    "rock"
+  ],
+  "Grandzooka": [
+    "leaf"
+  ],
+  "Tropogon": [
+    "wind"
+  ],
+  "SpringChicken": [
+    "wind"
+  ],
+  "Meangreen": [
+    "leaf"
+  ],
+  "Bloodlight": [
+    "fire"
+  ],
+  "Taillight": [
+    "fire"
+  ],
+  "Marinemonk": [
+    "water"
+  ],
+  "Treeleaf": [
+    "leaf"
+  ],
+  "Smashlight": [
+    "fire"
+  ],
+  "Grandtree": [
+    "leaf"
+  ],
+  "Fungoliath": [
+    "leaf"
+  ],
+  "Wispywailer": [
+    "wind"
+  ],
+  "Sharkspawn": [
+    "water"
+  ],
+  "Voodoodog": [
+    "fire"
+  ],
+  "Woeburner": [
+    "fire"
+  ],
+  "Treebblehead": [
+    "leaf"
+  ],
+  "Baronbones": [
+    "rock"
+  ],
+  "Inkwell": [
+    "water"
+  ],
+  "Aerolisk": [
+    "wind"
+  ],
+  "Treebble": [
+    "leaf"
+  ],
+  "Bonedome": [
+    "rock"
+  ],
+  "Slowburner": [
+    "fire"
+  ],
+  "Greatdrake": [
+    "water"
+  ],
+  "Ramethyst": [
+    "rock"
+  ],
+  "Lakesnake": [
+    "water"
+  ],
+  "Sappharmor": [
+    "rock"
+  ],
+  "Skyrin": [
+    "wind"
+  ],
+  "Inktank": [
+    "water"
+  ],
+  "Technicaller": [
+    "wind"
+  ],
+  "Sapphighter": [
+    "rock"
+  ],
+  "Skiadem": [
+    "wind"
+  ],
+  "Techniconqueror": [
+    "wind"
+  ],
+  "Shaderunner": [
+    "wind"
+  ],
+  "Skion": [
+    "wind"
+  ],
+  "Technicommander": [
+    "wind"
+  ],
+  "Anacactus": [
+    "leaf"
+  ],
+  "Slamethyst": [
+    "rock"
+  ],
+  "Inkbomb": [
+    "water"
+  ],
+  "Faderunner": [
+    "wind"
+  ],
+  "Shalemail": [
+    "rock"
+  ],
+  "Meangiant": [
+    "leaf"
+  ],
+  "Sharctic": [
+    "water"
+  ],
+  "Lochnessy": [
+    "water"
+  ],
+  "Firechief": [
+    "fire"
+  ],
+  "Herbvaurlord": [
+    "leaf"
+  ],
+  "Lochcroc": [
+    "water"
+  ],
+  "Lakedrake": [
+    "water"
+  ],
+  "Shaomonk": [
+    "water"
+  ],
+  "Triapet": [
+    "leaf"
+  ],
+  "Raptorch": [
+    "fire"
+  ],
+  "Gearbelly": [
+    "leaf"
+  ],
+  "Snowmonk": [
+    "water"
+  ],
+  "Mountoise": [
+    "rock"
+  ],
+  "Superbvaurlord": [
+    "leaf"
+  ],
+  "Firefighter": [
+    "fire"
+  ],
+  "Bonebardier": [
+    "rock"
+  ],
+  "Sapphsmiter": [
+    "rock"
+  ],
+  "Herbevaurus": [
+    "leaf"
+  ],
+  "Bouldoise": [
+    "rock"
+  ],
+  "Shaogun": [
+    "water"
+  ],
+  "Kingcacbra": [
+    "leaf"
+  ],
+  "Odinstweet": [
+    "wind"
+  ],
+  "Rapscourge": [
+    "fire"
+  ],
+  "Windbeaker": [
+    "wind"
+  ],
+  "Lochzilla": [
+    "water"
+  ],
+  "Yggdrasaurus": [
+    "leaf"
+  ],
+  "Backburner": [
+    "fire"
+  ],
+  "Rapscorch": [
+    "fire"
+  ],
+  "Shalemor": [
+    "rock"
+  ],
+  "Amethoise": [
+    "rock"
+  ],
+  "Bellybean": [
+    "leaf"
+  ],
+  "Windbender": [
+    "wind"
+  ],
+  "Backblaster": [
+    "fire"
+  ],
+  "Odinsbird": [
+    "wind"
+  ],
+  "Swampsting": [
+    "water"
+  ],
+  "Kingcarabic": [
+    "leaf"
+  ],
+  "Treepir": [
+    "leaf"
+  ],
+  "Fireflyer": [
+    "fire"
+  ],
+  "Winduyasha": [
+    "wind"
+  ],
+  "Shalemost": [
+    "rock"
+  ],
+  "Freezaur": [
+    "water"
+  ],
+  "Yggdrassic": [
+    "leaf"
+  ],
+  "Slushguppy": [
+    "water"
+  ],
+  "Creamdemon": [
+    "water"
+  ],
+  "Firebat": [
+    "fire"
+  ],
+  "Noseblaster": [
+    "wind"
+  ],
+  "Iggyrock": [
+    "rock"
+  ],
+  "NoseBlower": [
+    "wind"
+  ],
+  "Freezrex": [
+    "water"
+  ],
+  "Magmadon": [
+    "fire"
+  ],
+  "Spryggansaurus": [
+    "leaf"
+  ],
+  "Creamfiend": [
+    "water"
+  ],
+  "Powerplant": [
+    "leaf"
+  ],
+  "Crog": [
+    "rock"
+  ],
+  "Hardrocker": [
+    "rock"
+  ],
+  "Odinsbat": [
+    "wind"
+  ],
+  "Toughguppy": [
+    "water"
+  ],
+  "Flowerplant": [
+    "leaf"
+  ],
+  "Firemane": [
+    "fire"
+  ],
+  "Darkwolf": [
+    "wind"
+  ],
+  "Ragnarock": [
+    "rock"
+  ],
+  "Freeztop": [
+    "water"
+  ],
+  "Pterosoar": [
+    "wind"
+  ],
+  "Rocktops": [
+    "rock"
+  ],
+  "Bullcrog": [
+    "rock"
+  ],
+  "Swampgash": [
+    "water"
+  ],
+  "Soarceror": [
+    "wind"
+  ],
+  "Volrog": [
+    "fire"
+  ],
+  "Terrordon": [
+    "wind"
+  ],
+  "Pyrethon": [
+    "fire"
+  ],
+  "Soaron": [
+    "wind"
+  ],
+  "Magmarog": [
+    "fire"
+  ],
+  "Hippocrunch": [
+    "water"
+  ],
+  "Flyfox": [
+    "wind"
+  ],
+  "Kaboarki": [
+    "fire"
+  ],
+  "Killawatt": [
+    "fire"
+  ],
+  "Bonfoxfire": [
+    "fire"
+  ],
+  "Kaboomki": [
+    "fire"
+  ],
+  "Terrordactyl": [
+    "wind"
+  ],
+  "Souldier": [
+    "fire"
+  ],
+  "Rockbottom": [
+    "rock"
+  ],
+  "Foxfire": [
+    "fire"
+  ],
+  "Serpyre": [
+    "fire"
+  ],
+  "Killavolt": [
+    "fire"
+  ],
+  "Hippocrush": [
+    "water"
+  ],
+  "Treeprince": [
+    "leaf"
+  ],
+  "Nightwolf": [
+    "wind"
+  ],
+  "Smokeybear": [
+    "fire"
+  ],
+  "Embertail": [
+    "fire"
+  ],
+  "Aquabuck": [
+    "water"
+  ],
+  "Embertooth": [
+    "fire"
+  ],
+  "Chiefpeep": [
+    "leaf"
+  ],
+  "Leafchief": [
+    "leaf"
+  ],
+  "Veeppeep": [
+    "leaf"
+  ],
+  "Igcicle": [
+    "water"
+  ],
+  "Woolapalooza": [
+    "leaf"
+  ],
+  "Mightwotter": [
+    "water"
+  ],
+  "Highfox": [
+    "wind"
+  ],
+  "Fire Crystal": [
+    "fire"
+  ],
+  "Woolstock": [
+    "leaf"
+  ],
+  "Floralbonita": [
+    "leaf"
+  ],
+  "Glohawk": [
+    "fire"
+  ],
+  "Epic Crystal": [
+    "fire"
+  ],
+  "Planda": [
+    "leaf"
+  ],
+  "Wildbunny": [
+    "leaf"
+  ],
+  "Tortoice": [
+    "water"
+  ],
+  "Giantplanda": [
+    "leaf"
+  ],
+  "Ultra Crystal": [
+    "leaf"
+  ],
+  "Ultra Candy": [
+    "leaf"
+  ],
+  "Aqualope": [
+    "water"
+  ],
+  "Iguatic": [
+    "water"
+  ],
+  "Smouldier": [
+    "fire"
+  ],
+  "Leaffrog": [
+    "leaf"
+  ],
+  "Hornhead": [
+    "rock"
+  ],
+  "Silikid": [
+    "rock"
+  ],
+  "Super Crystal": [
+    "wind"
+  ],
+  "Gorch": [
+    "fire"
+  ],
+  "Cottonsail": [
+    "wind"
+  ],
+  "Strawbunny": [
+    "leaf"
+  ],
+  "Leafmur": [
+    "leaf"
+  ],
+  "Epic Candy": [
+    "fire"
+  ],
+  "Wind Crystal": [
+    "wind"
+  ],
+  "Dropler": [
+    "water"
+  ],
+  "Thino": [
+    "rock"
+  ],
+  "Burnybaby": [
+    "fire"
+  ],
+  "Troglodice": [
+    "water"
+  ],
+  "Super Candy": [
+    "wind"
+  ],
+  "Frigideer": [
+    "water"
+  ],
+  "Water Crystal": [
+    "water"
+  ],
+  "Mudball": [
+    "leaf"
+  ],
+  "Silikong": [
+    "rock"
+  ],
+  "Frigistag": [
+    "water"
+  ],
+  "Rockodile": [
+    "rock"
+  ],
+  "Rock Crystal": [
+    "rock"
+  ],
+  "Knightowl": [
+    "wind"
+  ],
+  "Jawsless": [
+    "water"
+  ],
+  "Thrashberry": [
+    "leaf"
+  ],
+  "Cromagma": [
+    "fire"
+  ],
+  "Clouffant": [
+    "wind"
+  ],
+  "Armorkillo": [
+    "rock"
+  ],
+  "Snowpeak": [
+    "water"
+  ],
+  "Wotter": [
+    "water"
+  ],
+  "Yellowfellow": [
+    "wind"
+  ],
+  "Kabloom": [
+    "leaf"
+  ],
+  "Landmask": [
+    "rock"
+  ],
+  "Hotspot": [
+    "fire"
+  ],
+  "Skywolf": [
+    "wind"
+  ],
+  "Radicoal": [
+    "fire"
+  ],
+  "Killypad": [
+    "leaf"
+  ],
+  "Vulcano": [
+    "fire"
+  ],
+  "Whirlybud": [
+    "leaf"
+  ],
+  "Kongcrete": [
+    "rock"
+  ],
+  "Flarebear": [
+    "fire"
+  ],
+  "Rockjaw": [
+    "rock"
+  ],
+  "Crumbler": [
+    "rock"
+  ],
+  "Leaf Crystal": [
+    "leaf"
+  ],
+  "Lavajaw": [
+    "fire"
+  ],
+  "Quartzalcoatl": [
+    "rock"
+  ],
+  "Atomizer": [
+    "fire"
+  ],
+  "Discomancer": [
+    "wind"
+  ],
+  "Slushbug": [
+    "water"
+  ],
+  "Underbrush": [
+    "leaf"
+  ],
+  "Armordillo": [
+    "rock"
+  ],
+  "Troad": [
+    "leaf"
+  ],
+  "Wetwilly": [
+    "water"
+  ],
+  "Rubbleyell": [
+    "rock"
+  ],
+  "Nimbus": [
+    "wind"
+  ],
+  "Craggy": [
+    "rock"
+  ],
+  "Craterous": [
+    "rock"
+  ],
+  "Wingding": [
+    "wind"
+  ],
+  "Eboncalf": [
+    "rock"
+  ],
+  "Mudblossom": [
+    "leaf"
+  ],
+  "Discoprancer": [
+    "wind"
+  ],
+  "Frostbite": [
+    "water"
+  ],
+  "Tankfish": [
+    "water"
+  ],
+  "Enormant": [
+    "rock"
+  ],
+  "Leafling": [
+    "leaf"
+  ],
+  "Brainfreeze": [
+    "water"
+  ],
+  "Battlebird": [
+    "wind"
+  ],
+  "Megamist": [
+    "wind"
+  ],
+  "Thunderbun": [
+    "wind"
+  ],
+  "Wonderbun": [
+    "wind"
+  ],
+  "Puffbelly": [
+    "wind"
+  ],
+  "Ebonbull": [
+    "rock"
+  ],
+  "Foghound": [
+    "wind"
+  ],
+  "Cloudhound": [
+    "wind"
+  ],
+  "Stormwolf": [
+    "wind"
+  ],
+  "Generowl": [
+    "wind"
+  ],
+  "Roostorm": [
+    "wind"
+  ],
+  "Cloudcover": [
+    "wind"
+  ],
+  "Slyphoon": [
+    "wind"
+  ],
+  "Colossant": [
+    "rock"
+  ],
+  "Rockhead": [
+    "rock"
+  ],
+  "Stabslab": [
+    "rock"
+  ],
+  "Wartoice": [
+    "water"
+  ],
+  "Twooster": [
+    "wind"
+  ],
+  "Slyclone": [
+    "wind"
+  ]
+}

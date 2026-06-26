@@ -1,0 +1,20 @@
+Как настроить значки:
+
+1. E значок:
+   Открой data/event-monsters.json и добавь имена монстров:
+   [
+     "Cinderfang",
+     "Flaregrowl"
+   ]
+
+2. R значок:
+   Открой data/boost-monsters.json и добавь имена Boost-монстров:
+   [
+     "Mortuo",
+     "Mortuar"
+   ]
+
+3. Если хочешь проверить E по BC Rank:
+   python tools/sync_bcrank_badges.py
+
+4. После изменения JSON обнови страницу в браузере Ctrl+F5.

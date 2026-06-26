@@ -1,0 +1,22 @@
+{
+  "primary_badge_rule": "first badge is E for event monsters, R for boost monsters, or empty",
+  "event_monsters_editable_file": "data/event-monsters.json",
+  "event_monsters_initial_count": 2,
+  "boost_monsters_detected_count": 3,
+  "stars_by_rarity": {
+    "RARE": 2,
+    "SUPER": 3,
+    "ULTRA": 4,
+    "EPIC": 5,
+    "LEGENDARY": 6,
+    "MYTHIC": 7
+  },
+  "initial_event_names": [
+    "Aquadon",
+    "Blazegrowl",
+    "Emberdrake",
+    "Leafybeat",
+    "Rockbulwark",
+    "Thundbash"
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "monsters_total": 2068,
+  "png_files_in_uploaded_zip": 2064,
+  "matched_and_copied": 2064,
+  "missing_images_count": 4,
+  "missing_images": [
+    "Epic Treat",
+    "Rare Treat",
+    "Epic Crystal",
+    "Epic Candy"
+  ],
+  "unused_png_count": 0,
+  "unused_png_first_100": [],
+  "matched_first_50": [
+    {
+      "monster": "Rainbrute",
+      "png": "Rainbrute.png",
+      "target": "Rainbrute.png"
+    },
+    {
+      "monster": "Stormbrute",
+      "png": "Stormbrute.png",
+      "target": "Stormbrute.png"
+    },
+    {
+      "monster": "Marsupadore",
+      "png": "Marsupadore.png",
+      "target": "Marsupadore.png"
+    },
+    {
+      "monster": "Muchasupadore",
+      "png": "Muchasupadore.png",
+      "target": "Muchasupadore.png"
+    },
+    {
+      "monster": "Pyroscalpel",
+      "png": "Pyroscalpel.png",
+      "target": "Pyroscalpel.png"
+    },
+    {
+      "monster": "Pyroscoundrel",
+      "png": "Pyroscoundrel.png",
+      "target": "Pyroscoundrel.png"
+    },
+    {
+      "monster": "Battery Sergeant",
+      "png": "Battery_Sergeant.png",
+      "target": "Battery Sergeant.png"
+    },
+    {
+      "monster": "Battery General",
+      "png": "Battery_General.png",
+      "target": "Battery General.png"
+    },
+    {
+      "monster": "Frying Fox",
+      "png": "Frying_Fox.png",
+      "target": "Frying Fox.png"
+    },
+    {
+      "monster": "Fryvern",
+      "png": "Fryvern.png",
+      "target": "Fryvern.png"
+    },
+    {
+      "monster": "Emberfang",
+      "png": "Emberfang.png",
+      "target": "Emberfang.png"
+    },
+    {
+      "monster": "Cinderfang",
+      "png": "Cinderfang.png",
+      "target": "Cinderfang.png"
+    },
+    {
+      "monster": "Emberdrake",
+      "png": "Emberdrake.png",
+      "target": "Emberdrake.png"
+    },
+    {
+      "monster": "Cinderdrake",
+      "png": "Cinderdrake.png",
+      "target": "Cinderdrake.png"
+    },
+    {
+      "monster": "Flarewyrm",
+      "png": "Flarewyrm.png",
+      "target": "Flarewyrm.png"
+    },
+    {
+      "monster": "Blazewyrm",
+      "png": "Blazewyrm.png",
+      "target": "Blazewyrm.png"
+    },
+    {
+      "monster": "Flamescythe",
+      "png": "Flamescythe.png",
+      "target": "Flamescythe.png"
+    },
+    {
+      "monster": "Hellscythe",
+      "png": "Hellscythe.png",
+      "target": "Hellscythe.png"
+    },
+    {
+      "monster": "Ghostbiter",
+      "png": "Ghostbiter.png",
+      "target": "Ghostbiter.png"
+    },
+    {
+      "monster": "Ghostfighter",
+      "png": "Ghostfighter.png",
+      "target": "Ghostfighter.png"
+    },
+    {
+      "monster": "Buffalowing",
+      "png": "Buffalowing.png",
+      "target": "Buffalowing.png"
+    },
+    {
+      "monster": "Buffaloking",
+      "png": "Buffaloking.png",
+      "target": "Buffaloking.png"
+    },
+    {
+      "monster": "Fryger",
+      "png": "Fryger.png",
+      "target": "Fryger.png"
+    },
+    {
+      "monster": "Deepfryger",
+      "png": "Deepfryger.png",
+      "target": "Deepfryger.png"
+    },
+    {
+      "monster": "Volkyrie",
+      "png": "Volkyrie.png",
+      "target": "Volkyrie.png"
+    },
+    {
+      "monster": "Volcalla",
+      "png": "Volcalla.png",
+      "target": "Volcalla.png"
+    },
+    {
+      "monster": "Volcrusha",
+      "png": "Volcrusha.png",
+      "target": "Volcrusha.png"
+    },
+    {
+      "monster": "Maulcano",
+      "png": "Maulcano.png",
+      "target": "Maulcano.png"
+    },
+    {
+      "monster": "Kingcano",
+      "png": "Kingcano.png",
+      "target": "Kingcano.png"
+    },
+    {
+      "monster": "Scynder",
+      "png": "Scynder.png",
+      "target": "Scynder.png"
+    },
+    {
+      "monster": "Scyzzler",
+      "png": "Scyzzler.png",
+      "target": "Scyzzler.png"
+    },
+    {
+      "monster": "Grillipede",
+      "png": "Grillipede.png",
+      "target": "Grillipede.png"
+    },
+    {
+      "monster": "Grillsickle",
+      "png": "Grillsickle.png",
+      "target": "Grillsickle.png"
+    },
+    {
+      "monster": "Joltuar",
+      "png": "Joltuar.png",
+      "target": "Joltuar.png"
+    },
+    {
+      "monster": "Boltuar",
+      "png": "Boltuar.png",
+      "target": "Boltuar.png"
+    },
+    {
+      "monster": "Jerseyboil",
+      "png": "Jerseyboil.png",
+      "target": "Jerseyboil.png"
+    },
+    {
+      "monster": "Jerseyscorch",
+      "png": "Jerseyscorch.png",
+      "target": "Jerseyscorch.png"
+    },
+    {
+      "monster": "Limbone",
+      "png": "Limbone.png",
+      "target": "Limbone.png"
+    },
+    {
+      "monster": "Limboy",
+      "png": "Limboy.png",
+      "target": "Limboy.png"
+    },
+    {
+      "monster": "Lightsprite",
+      "png": "Lightsprite.png",
+      "target": "Lightsprite.png"
+    },
+    {
+      "monster": "Lightblight",
+      "png": "Lightblight.png",
+      "target": "Lightblight.png"
+    },
+    {
+      "monster": "Skalld",
+      "png": "Skalld.png",
+      "target": "Skalld.png"
+    },
+    {
+      "monster": "Darkskalld",
+      "png": "Darkskalld.png",
+      "target": "Darkskalld.png"
+    },
+    {
+      "monster": "Scyfire",
+      "png": "Scyfire.png",
+      "target": "Scyfire.png"
+    },
+    {
+      "monster": "Scypyre",
+      "png": "Scypyre.png",
+      "target": "Scypyre.png"
+    },
+    {
+      "monster": "Foeburner",
+      "png": "Foeburner.png",
+      "target": "Foeburner.png"
+    },
+    {
+      "monster": "Foebomber",
+      "png": "Foebomber.png",
+      "target": "Foebomber.png"
+    },
+    {
+      "monster": "Toxeel",
+      "png": "Toxeel.png",
+      "target": "Toxeel.png"
+    },
+    {
+      "monster": "Toxsnake",
+      "png": "Toxsnake.png",
+      "target": "Toxsnake.png"
+    },
+    {
+      "monster": "Kaleidocrab",
+      "png": "Kaleidocrab.png",
+      "target": "Kaleidocrab.png"
+    }
+  ]
+}
